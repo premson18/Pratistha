@@ -1,0 +1,32 @@
+
+  .hero2{
+
+    background-image: url("../../assets/backgroundvideo.mp4");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+  }
+  .hero2{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .particles{
+    background-color: transparent;
+  }
+
+  @media (min-width: 419px) and (max-width: 627px){
+    .hero2{
+      background: linear-gradient(75deg,blue,pink,red);
+      background-size: 100% 100%;
+      height: 90vh;
+  
+    }
+    .particles{
+      background-color: transparent;
+    }
+    
+  }

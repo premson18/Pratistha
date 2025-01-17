@@ -1,0 +1,53 @@
+.nteventsmain{
+    height: 70vh;
+    background-color: aqua;
+    box-sizing: border-box;
+
+}
+.nteventsmain h1{
+    text-align: center;
+    font-size:50px;
+}
+
+.ntevents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.ntechevents-cards{
+    height: 200px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+
+.ntechevents-cards .ncard3{
+    width: 150px;
+    height: 240px;
+    border: 2px solid black;
+    
+}
+
+@media (min-width : 409px) and (max-width: 699px){
+    .nteventsmain{
+        height: 105vh;
+        background-color: aqua;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    .ntechevents-cards .ncard3{
+        width: 150px;
+        height: 240px;
+        border: 2px solid black;
+        
+    }
+    
+
+}

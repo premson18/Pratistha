@@ -1,0 +1,22 @@
+.aboutinfo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+.aboutinfo{
+    border: 2px solid black;
+}
+
+.aboutcol{
+    border: 1px solid black;
+    width: 100%;
+    flex-basis: 100;
+    flex-shrink: 100;
+}
