@@ -1,9 +1,11 @@
 
   .hero2{
 
-    background-image: url("../../assets/backgroundvideo.mp4");
+    background-image: url("../../assets/background.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 0;
+    background-attachment: fixed;
     
     
   }
