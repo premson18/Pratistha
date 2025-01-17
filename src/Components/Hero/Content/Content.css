@@ -36,7 +36,7 @@ div{
     font-size: 50px;
 }
 
-@media (min-width : 409px) and (max-width: 699px){
+@media (min-width : 359px) and (max-width: 699px){
     .matter h1{
         font-size: 4.5rem;
     }
