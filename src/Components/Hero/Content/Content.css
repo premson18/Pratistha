@@ -45,3 +45,13 @@ div{
     }
    
 }
+
+@media (min-width : 1080px) and (max-width: 1299px){
+    .matter h1{
+        font-size: 6.5rem;
+    }
+    .date{
+        font-size: 50px;
+    }
+   
+}
