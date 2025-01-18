@@ -52,7 +52,7 @@ div{
 
 @media screen and (max-width : 1080px) {
     .matter h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 100;
     }
     .date{
