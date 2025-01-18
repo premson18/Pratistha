@@ -110,9 +110,10 @@
         
     }
     .teventsmain{
-        min-height: 100vh;
+        min-height: 122vh;
         background: radial-gradient(black,rgb(99, 99, 99),grey);
-        box-sizing: border-box;    
+        box-sizing: border-box;
+        
 
 }
 
