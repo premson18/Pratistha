@@ -38,7 +38,7 @@ div{
 
 @media (min-width : 209px) and (max-width: 699px){
     .matter h1{
-        font-size: 1.5rem;
+        font-size: 7.5rem;
     }
     .date{
         font-size: 50px;
@@ -46,12 +46,12 @@ div{
    
 }
 
-@media (min-width : 1080px) and (max-width: 1299px){
+@media screen and (max-width : 1080px) {
     .matter h1{
-        font-size: 8.5rem;
+        font-size: 9.5rem;
     }
     .date{
-        font-size: 50px;
+        font-size: 10px;
     }
    
 }
