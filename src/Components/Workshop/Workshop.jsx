@@ -1,25 +1,21 @@
 import React from 'react'
-import IMAGE from "../../assets/BIM.png"
-import "../Workshop/workshop.css"
+import IMAGE from '../../assets/BIM.png'
+import './workshop.css'
+
 const Workshop = () => {
   return (
-    <div className='workshop'>
-      <section id='workshop1'>
-      <h1 className='heading'>Workshop</h1>
-      <div className="workshop-card container1">
-        <div className="image aboutcol">
-          <img src={IMAGE}></img>
-        </div>
-        <div className="matter1 aboutcol">
-          <h3>Workshop</h3>
-          <p>dffsfhsj fsfjjhfkjhkjfd</p>
-          <p>Price :- 699/-</p>
-          <button>Buy Now</button>
+    <div>
+      <div className="workshop-card">
+        <div className="image animatercard1">
+          <div>
+          <h4>Workshop</h4>
+          <button>REGISTER NOW</button>
+          </div>
         </div>
       </div>
-      </section>
     </div>
   )
 }
 
 export default Workshop
+

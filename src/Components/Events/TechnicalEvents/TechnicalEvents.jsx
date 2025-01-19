@@ -12,7 +12,8 @@ const TechnicalEvents = () => {
       
       <div className="techevents-cards container1">
 
-        <div className="card3 animatcard" >
+        <div className="card3 animatcard" ><div>
+        </div>
              </div>
         <div className="card3 animatcard">
   
