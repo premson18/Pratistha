@@ -5,6 +5,7 @@ import { motion } from 'framer-motion'
 const TechnicalEvents = () => {
   return (
     <div className='teventsmain'>
+      <section id='events123'>
       <h1>Events</h1><br></br><hr></hr>
       <h1>Technical Events</h1>
         <div className='tevents'>
@@ -23,6 +24,7 @@ const TechnicalEvents = () => {
       </div>
 
       </div>
+      </section>
     </div>
   )
 }
