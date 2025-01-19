@@ -4,7 +4,7 @@ import './Sponsors.css'
 const Sponsors = () => {
   return (
     <div>
-      
+      <section id='sponsors'>
       <div className="wrapper">
             <div className="item-1 item1"></div>
             <div className="item-1 item2"></div>
@@ -35,7 +35,7 @@ const Sponsors = () => {
             <div className="item-3 item7"></div>
             <div className="item-3 item8"></div>
         </div>
-
+        </section>
     </div>
   )
 }

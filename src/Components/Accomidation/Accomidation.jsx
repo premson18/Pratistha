@@ -4,6 +4,7 @@ import './Accomidation.css'
 const Accomidation = () => {
   return (
     <div className='accomidation container1'>
+      <section id='accomidation'>
       <div className='accmid'>
         <div className='accimage accard'></div>
         <div className='accinfo accard'>
@@ -15,6 +16,7 @@ const Accomidation = () => {
         </div>
 
       </div>
+      </section>
     </div>
   )
 }

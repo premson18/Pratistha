@@ -4,6 +4,7 @@ import "../Workshop/workshop.css"
 const Workshop = () => {
   return (
     <div className='workshop'>
+      <section id='workshop1'>
       <h1 className='heading'>Workshop</h1>
       <div className="workshop-card container1">
         <div className="image aboutcol">
@@ -16,6 +17,7 @@ const Workshop = () => {
           <button>Buy Now</button>
         </div>
       </div>
+      </section>
     </div>
   )
 }
