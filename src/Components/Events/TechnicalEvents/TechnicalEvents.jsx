@@ -12,7 +12,10 @@ const TechnicalEvents = () => {
       
       <div className="techevents-cards container1">
 
-        <div className="card3 animatcard" ><div>
+        <div className="card3 animatcard">
+          <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div><div>
         </div>
              </div>
         <div className="card3 animatcard">
