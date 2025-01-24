@@ -1,6 +1,6 @@
 @font-face {
     font-family: myfont;
-    src: url("../../../assets/amp.TTF");
+    src: url("../../../assets/Nightcore.ttf");
 }
 
 *{
@@ -9,35 +9,49 @@
 }
 .matter{
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
+    z-index: 2000;
 }
 
 .to{
     padding: 0;
     margin: 0;
+    z-index: 10;
+    font-size: 2.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 div{
-    z-index: 100;
+    z-index: 2000;
 }
 .matter h1{
     font-family: myfont;
     font-weight: 200;
     color: rgb(0, 0, 0);
-    -webkit-text-stroke: 3px;
-    -webkit-text-stroke-color: rgb(255, 0, 72);
+    font-size: 7.5rem;   
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 98, 255);
+    font-weight: 10;
 }
 .particles{
     height: 100vh;
 }
 .auto-type{
     color: rgb(0, 0, 0);
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .date{
-    font-size: 50px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.dept{
+    font-size: 2.5rem;
+    font-family: myfont;
+    font-style: italic;
 }
 
 @media (min-width : 209px) and (max-width: 699px){

@@ -24,7 +24,7 @@ const ParticlesComponent = (props) => {
       {
     background: {
        color: {
-         value: "#ffffff0",
+         value: "",
          opacity:0,
       
        },
@@ -53,14 +53,14 @@ const ParticlesComponent = (props) => {
       },
       particles: {
         color: {
-          value: "#ffffff",
+          value: "#ff6600",
         },
         links: {
-          color: "#ffffff",
+          color: "#ff6600",
           distance: 150,
           enable: true,
-          opacity: 0.8,
-          width: 1,
+          opacity: 1,
+          width: 0.5,
         },
         move: {
           direction: "none",
@@ -69,14 +69,14 @@ const ParticlesComponent = (props) => {
             default: "bounce",
           },
           random: true,
-          speed: 2,
+          speed: 1,
           straight: false,
         },
         number: {
           density: {
             enable: true,
           },
-          value: 300,
+          value: 250,
         },
         opacity: {
           value: 0.0,
@@ -96,7 +96,16 @@ const ParticlesComponent = (props) => {
     []
   );
 
-  return <Particles id={props.id} init={particlesLoaded} options={options} />;
+  return (
+    <div
+      style={{
+        position: "relative", // Ensure z-index takes effect
+        zIndex: -1, // Set your desired z-index value
+      }}
+    >
+      <Particles id={props.id} init={particlesLoaded} options={options} />
+    </div>
+  );
 };
 
 export default ParticlesComponent;

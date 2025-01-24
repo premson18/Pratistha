@@ -5,6 +5,7 @@ import './workshop.css'
 const Workshop = () => {
   return (
     <div>
+      <section id='workshop1'>
       <div className="workshop-card">
         <div className="image animatercard1">
           <div>
@@ -12,7 +13,9 @@ const Workshop = () => {
           <button>REGISTER NOW</button>
           </div>
         </div>
+        
       </div>
+      </section>
     </div>
   )
 }

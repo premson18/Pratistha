@@ -3,6 +3,7 @@
     background:linear-gradient(to right, black,grey,rgb(0, 0, 0));
     box-sizing: border-box;
     z-index: 1000;
+    padding-top: 2%;
 
 }
 .teventsmain h1{
@@ -28,8 +29,6 @@
     flex-wrap: wrap;
     flex-grow: 2;
     box-sizing: border-box;
-    padding-left: 5%;
-    padding-right: 5%;
     
 }
 
@@ -38,6 +37,9 @@
     height: 240px;
     border: 2px solid black;
     box-sizing: border-box;
+    animation: appear 2s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
     
     
 }
@@ -58,8 +60,8 @@
 .animatcard::before{
     content: '';
     position: absolute;
-    width: 500px;
-    background-image: linear-gradient(180deg,cyan,rgb(255, 9, 50));
+    width: 400px;
+    background-image: linear-gradient(180deg,cyan,rgb(255, 162, 69));
     height: 130%;
     animation: rotBGimg 3s linear infinite;
     transition: all 0.2s linear;
@@ -88,16 +90,14 @@
     border-radius: 15px;
     box-sizing: border-box;
     position: absolute;
-    
 }
 
 
-@media (min-width : 409px) and (max-width: 699px){
+@media (min-width : 320px) and (max-width: 768px){
     .teventsmain{
-        height: 110vh;
+        height: 144vh;
         background-color: rgb(27, 29, 29);
         box-sizing: border-box;
-        overflow: hidden;
         padding-bottom: 50px;
     }
 
@@ -118,17 +118,16 @@
 
 }
 
-@media screen and (max-width : 1080px) {
+@media screen and (min-width : 320px) and (max-width : 768px) {
    
     .techevents-cards .card3{
         width: 120px;
         height: 170px;
         border: 2px solid black;
-        scale: 1;
         
     }
     .teventsmain{
-        min-height: 95vh;
+        min-height: 105vh;
         background: linear-gradient(to right, black,grey,rgb(0, 0, 0));
         box-sizing: border-box;
         
@@ -145,6 +144,8 @@
     flex-wrap: wrap;
     flex-grow: 2;
     box-sizing: border-box;
+    padding-left: 10%;
+    padding-right: 10%;
 }  
 }
 

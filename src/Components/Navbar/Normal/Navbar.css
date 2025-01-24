@@ -10,11 +10,10 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 2000;
+    z-index: 20000;
     opacity: 0.7;
     margin-top: 10px;
     border: none;
-    border-radius: 90px;
 
 }
 

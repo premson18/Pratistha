@@ -1,20 +1,17 @@
 import React from 'react'
 import './Accomidation.css'
-
 const Accomidation = () => {
   return (
-    <div className='accomidation container1'>
+    <div>
       <section id='accomidation'>
-      <div className='accmid'>
-        <div className='accimage accard'></div>
-        <div className='accinfo accard'>
-          <div><p>Register Early for the accomidation at our hostle .The Registration fee for accommadation is mentioned below</p>
-          <p>Rs 300 (if Registered for workshop) <br></br> Rs 350 (if not Registered for Workshop) </p>
-          <p>The Accomidation fee includes both Stay & food for two days at our College</p>
-          <button>Register</button>
+      <h1 className='accomh1'>Accomidation</h1>
+      <div className='scontainer'>
+          
+        <div className="simage scard">
+        <div className="accinfo">
+            <p>sdfdfd</p><button>Register</button>
           </div>
-        </div>
-
+          <img></img></div>
       </div>
       </section>
     </div>
