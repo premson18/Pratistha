@@ -21,12 +21,12 @@ function App() {
       <Navbar/>
       <Mobile/>
       <Hero />
+      <About/>
       <Workshop/>
       <TechnicalEvents/>
       <NonTechnicalEvents/>
       <Accomidation/>
       <Contact/>
-      <About/>
       <Sponsors/>
       
     </>

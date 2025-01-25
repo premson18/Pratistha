@@ -7,12 +7,14 @@ import "./Hero.css"
 
 const Hero = () => {
   return (
-    <div className='hero2 container1' >
+    <div  >
       <section id='home'>
+        <div className='hero2 container1'>
       <ParticlesComponent className='particles'/>
        <Content />
+       </div>
        </section>
-      
+       
     </div>
   )
 }

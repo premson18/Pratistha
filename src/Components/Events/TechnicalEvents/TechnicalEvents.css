@@ -1,6 +1,6 @@
 .teventsmain{
     min-height: 70vh;
-    background:linear-gradient(to right, black,grey,rgb(0, 0, 0));
+    background-color: rgb(108, 108, 108);
     box-sizing: border-box;
     z-index: 1000;
     padding-top: 2%;
@@ -93,6 +93,25 @@
 }
 
 
+.animatcard1::before{
+    background-image: linear-gradient(180deg,cyan,rgb(255, 65, 96));
+}
+.animatcard2::before{
+    background-image: linear-gradient(180deg, #008080,orange);
+}
+.animatcard3::before{
+    background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
+}
+.animatcard4::before{
+    background-image: linear-gradient(180deg,green,yellow);
+}
+.animatcard5::before{
+    background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
+}
+.animatcard6::before{
+    background-image: linear-gradient(180deg,#008080,orange));
+}
+
 @media (min-width : 320px) and (max-width: 768px){
     .teventsmain{
         height: 144vh;
@@ -127,7 +146,7 @@
         
     }
     .teventsmain{
-        min-height: 105vh;
+        min-height: 90vh;
         background: linear-gradient(to right, black,grey,rgb(0, 0, 0));
         box-sizing: border-box;
         

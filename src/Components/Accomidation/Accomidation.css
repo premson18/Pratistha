@@ -32,3 +32,21 @@
     font-size: 2.5rem;
     padding: 5px;
 }
+.accomidationh1{
+    font-size: 2.5rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn button{
+    padding: 8px 60px;
+    background: linear-gradient(45deg , red,white,rgb(0, 124, 128),cyan);
+    border: none;
+    box-shadow: 0 0 0 0 10px black ;
+}
+.btn button:hover {
+    background: blueviolet;
+}

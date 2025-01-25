@@ -4,12 +4,13 @@ const Accomidation = () => {
   return (
     <div>
       <section id='accomidation'>
-      <h1 className='accomh1'>Accomidation</h1>
       <div className='scontainer'>
           
         <div className="simage scard">
         <div className="accinfo">
-            <p>sdfdfd</p><button>Register</button>
+            <h1 className='accomidationh1'>Accomidation</h1>
+            <p></p>
+            <div className="btn"><button>Register</button></div>
           </div>
           <img></img></div>
       </div>

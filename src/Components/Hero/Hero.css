@@ -25,6 +25,10 @@
     
   }
 
+  #hme{
+    background-color: black;
+  }
+
   @media (min-width: 419px) and (max-width: 627px){
     .hero2{
       background: linear-gradient(75deg,blue,pink,red);
