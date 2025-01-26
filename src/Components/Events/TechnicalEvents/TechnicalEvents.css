@@ -109,10 +109,10 @@
     background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
 }
 .animatcard6::before{
-    background-image: linear-gradient(180deg,#008080,orange));
+    background-image: linear-gradient(180deg,#008080,orange);
 }
 
-@media (min-width : 320px) and (max-width: 768px){
+@media (min-width : 320px) and (max-width: 768px) {
     .teventsmain{
         height: 120vh;
         background-color: rgb(27, 29, 29);

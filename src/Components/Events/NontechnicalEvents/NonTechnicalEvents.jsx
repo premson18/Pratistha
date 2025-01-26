@@ -9,15 +9,15 @@ const NonTechnicalEvents = () => {
       
       <div className="ntechevents-cards">
 
-        <div className="ncard3 animatcard" >
+        <div className="ncard3 animatcard animatcard1" >
              </div>
-        <div className="ncard3 animatcard">
+        <div className="ncard3 animatcard animatcard2">
   
         </div>
-        <div className="ncard3 animatcard"></div>
-        <div className="ncard3 animatcard"></div>
-        <div className="ncard3 animatcard"></div>
-        <div className="ncard3 animatcard"></div>
+        <div className="ncard3 animatcard animatcard3"></div>
+        <div className="ncard3 animatcard animatcard4"></div>
+        <div className="ncard3 animatcard animatcard5"></div>
+        <div className="ncard3 animatcard animatcard6"></div>
       </div>
 
       </div>

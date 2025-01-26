@@ -21,10 +21,10 @@ const Mobile = () => {
         </div>
       <div className="mobnav">
         <ul>
-            <li><a onClick={() => scrollToSection ('home')}>Home</a></li>
+            <li><button onClick={() => scrollToSection ('home')}>Home</button></li>
             <li><a onClick={() => scrollToSection ('workshop1')}>Workshop</a></li>
             <li><a href="">Accomidation</a></li>
-            <li><a href="">Events</a></li>
+            <li><a onClick={() => scrollToSection ('events123')}>Events</a></li>
             <li><a href="">About</a></li>
         </ul>
       </div>
