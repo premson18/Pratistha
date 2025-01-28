@@ -14,7 +14,7 @@ const Content = () => {
         <Typewriter/>
           <p className='to bold1'>To</p></h5>
       <h1>(Pratistha)</h1>
-      <h5 className='bold2'>2K25</h5>
+      <h5 className='bold2'>2K2c5</h5>
       <p className='date bold1'>March 3 & 4</p>
       
       </div>
