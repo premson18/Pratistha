@@ -2,8 +2,9 @@
     min-height: 70vh;
     background-color: rgb(108, 108, 108);
     box-sizing: border-box;
-    z-index: 1000;
+    z-index: 3000;
     padding-top: 2%;
+
 
 }
 .nteventsmain h1{
@@ -35,7 +36,7 @@
 .ntechevents-cards .ncard3{
     width: 150px;
     height: 240px;
-    border: 2px solid black;
+    border: 2px solid rgb(255, 255, 255);
     box-sizing: border-box;
     animation: appear 2s linear;
     animation-timeline: view();
@@ -44,7 +45,7 @@
     
 }
 
-.animatcard{
+.ntanimatcard{
     position: relative;
     display: flex;
     place-content: center;
@@ -57,7 +58,7 @@
     box-sizing: border-box;
 }
 
-.animatcard::before{
+.ntanimatcard::before{
     content: '';
     position: absolute;
     width: 400px;
@@ -66,6 +67,7 @@
     animation: rotBGimg 3s linear infinite;
     transition: all 0.2s linear;
     box-sizing: border-box;
+    border: 1px solid white;
 }
 
 @keyframes rotBGimg{
@@ -77,42 +79,97 @@
     }
 }
  
-.animatcard::after{
+.ntanimatcard::after{
     content: "";
     position: absolute;
-    background: url('../../../assets/download.jpeg');
     background-repeat: no-repeat;
-    background-size: 170%;
-    background-position: center;
-    background-clip: border-box;
-    background-attachment: fixed;
+    
     inset: 5px;
     border-radius: 15px;
     box-sizing: border-box;
     position: absolute;
+
 }
 
 
-.animatcard1::before{
+.ntanimatcard1::before{
     background-image: linear-gradient(180deg,cyan,rgb(255, 65, 96));
 }
-.animatcard2::before{
+.ntanimatcard2::before{
     background-image: linear-gradient(180deg, #008080,orange);
 }
-.animatcard3::before{
+.ntanimatcard3::before{
     background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
 }
-.animatcard4::before{
+.ntanimatcard4::before{
     background-image: linear-gradient(180deg,green,yellow);
 }
-.animatcard5::before{
+.ntanimatcard5::before{
     background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
 }
-.animatcard6::before{
+.ntanimatcard6::before{
     background-image: linear-gradient(180deg,#008080,orange);
 }
 
-@media (min-width : 320px) and (max-width: 768px){
+.ntanimatcard1::after{
+    background: url('../../../assets/eventimages/autocad.jpeg');
+    background-size: 130%;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    filter: blur(1.5px);
+    
+}
+
+.ntanimatcard2::after{
+    background: url('../../../assets/eventimages/quiz.png');
+    background-size: 170%;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.ntanimatcard3::after{
+    background: url('../../../assets/eventimages/stixtopia.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.ntanimatcard4::after{
+    background: url('../../../assets/eventimages/ppt.jpeg');
+    background-size: cover;
+    background-position:right;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.ntanimatcard5::after{
+    background: url('../../../assets/eventimages/surveying.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.ntanimatcard6::after{
+    background: url('../../../assets/eventimages/projectexpo.jpeg');
+    background-size: cover;
+    background-position:-190px;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+    
+}
+
+
+@media (min-width : 320px) and (max-width: 768px) {
     .nteventsmain{
         height: 120vh;
         background-color: rgb(27, 29, 29);

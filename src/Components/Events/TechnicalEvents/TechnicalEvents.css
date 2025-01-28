@@ -45,7 +45,7 @@
     
 }
 
-.animatcard{
+.tanimatcard{
     position: relative;
     display: flex;
     place-content: center;
@@ -58,7 +58,7 @@
     box-sizing: border-box;
 }
 
-.animatcard::before{
+.tanimatcard::before{
     content: '';
     position: absolute;
     width: 400px;
@@ -79,40 +79,95 @@
     }
 }
  
-.animatcard::after{
+.tanimatcard::after{
     content: "";
     position: absolute;
-    background: url('../../../assets/download.jpeg');
     background-repeat: no-repeat;
-    background-size: 170%;
-    background-position: center;
-    background-clip: border-box;
-    background-attachment: fixed;
+    
     inset: 5px;
     border-radius: 15px;
     box-sizing: border-box;
     position: absolute;
+
 }
 
 
-.animatcard1::before{
+.tanimatcard1::before{
     background-image: linear-gradient(180deg,cyan,rgb(255, 65, 96));
 }
-.animatcard2::before{
+.tanimatcard2::before{
     background-image: linear-gradient(180deg, #008080,orange);
 }
-.animatcard3::before{
+.tanimatcard3::before{
     background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
 }
-.animatcard4::before{
+.tanimatcard4::before{
     background-image: linear-gradient(180deg,green,yellow);
 }
-.animatcard5::before{
+.tanimatcard5::before{
     background-image: linear-gradient(180deg,blue,rgb(255, 0, 0));
 }
-.animatcard6::before{
+.tanimatcard6::before{
     background-image: linear-gradient(180deg,#008080,orange);
 }
+
+.tanimatcard1::after{
+    background: url('../../../assets/eventimages/autocad.jpeg');
+    background-size: 130%;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    filter: blur(1.5px);
+    
+}
+
+.tanimatcard2::after{
+    background: url('../../../assets/eventimages/quiz.png');
+    background-size: 170%;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.tanimatcard3::after{
+    background: url('../../../assets/eventimages/stixtopia.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.tanimatcard4::after{
+    background: url('../../../assets/eventimages/ppt.jpeg');
+    background-size: cover;
+    background-position:right;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.tanimatcard5::after{
+    background: url('../../../assets/eventimages/surveying.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+}
+.tanimatcard6::after{
+    background: url('../../../assets/eventimages/projectexpo.jpeg');
+    background-size: cover;
+    background-position:-190px;
+    background-clip: border-box;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    filter: blur(1.5px);
+    
+}
+
 
 @media (min-width : 320px) and (max-width: 768px) {
     .teventsmain{

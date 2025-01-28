@@ -12,19 +12,19 @@ const TechnicalEvents = () => {
       
       <div className="techevents-cards container1">
 
-        <div className="card3 animatcard animatcard1">
+        <div className="card3 tanimatcard tanimatcard1">
           <div className="freefire">
             <h5>Freefire</h5>
             <button></button></div><div>
         </div>
              </div>
-        <div className="card3 animatcard animatcard2">
+        <div className="card3 tanimatcard tanimatcard2">
   
         </div>
-        <div className="card3 animatcard animatcard3"></div>
-        <div className="card3 animatcard animatcard4"></div>
-        <div className="card3 animatcard animatcard5"></div>
-        <div className="card3 animatcard animatcard6"></div>
+        <div className="card3 tanimatcard tanimatcard3"></div>
+        <div className="card3 tanimatcard tanimatcard4"></div>
+        <div className="card3 tanimatcard tanimatcard5"></div>
+        <div className="card3 tanimatcard tanimatcard6"></div>
       </div>
 
       </div>
