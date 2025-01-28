@@ -2,6 +2,7 @@ import React from 'react'
 import './Mobile.css'
 import logo from '../../../assets/logo.png'
 import Instagram from '../../../assets/instagram.png'
+import Home from '../../../assets/icons/home.svg'
 
 const scrollToSection = (sectionId) => {
     const element =  document.getElementById(sectionId);
@@ -21,11 +22,11 @@ const Mobile = () => {
         </div>
       <div className="mobnav">
         <ul>
-            <li><button onClick={() => scrollToSection ('home')}>Home</button></li>
-            <li><a onClick={() => scrollToSection ('workshop1')}>Workshop</a></li>
-            <li><a href="">Accomidation</a></li>
-            <li><a onClick={() => scrollToSection ('events123')}>Events</a></li>
-            <li><a href="">About</a></li>
+            <li><button onClick={() => scrollToSection ('home')}><img src={Home}></img><br></br>Home</button></li>
+            <li><button onClick={() => scrollToSection ('workshop1')}>Workshop</button></li>
+            <li><button href="">Accomidation</button></li>
+            <li><button onClick={() => scrollToSection ('events123')}>Events</button></li>
+            <li><button href="">About</button></li>
         </ul>
       </div>
     </div>

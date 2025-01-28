@@ -30,12 +30,20 @@
         border: 1px solid rgb(255, 255, 255);
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
+        flex-basis: 50%;
+        flex-basis: 49%;
+        padding: 0;
+        margin: 0;
+        border: none;
         
     }
 
     .mobnav ul li button{
         width: 100%;
         height: 100%;
+        border: none;
+        gap: 0;
+        
     }
     .mobnav ul:active{
         background-color: blue;

@@ -7,14 +7,17 @@ import "./Hero.css"
 
 const Hero = () => {
   return (
-    <div  >
+    <div className='hero2 container1' >
+      <div className="bg">
       <section id='home'>
-        <div className='hero2 container1'>
       <ParticlesComponent className='particles'/>
        <Content />
-       </div>
-       </section>
        
+       </section>
+       </div>
+
+
+      
     </div>
   )
 }
