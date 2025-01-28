@@ -62,7 +62,7 @@
     content: '';
     position: absolute;
     width: 400px;
-    background-image: linear-gradient(180deg,cyan,rgb(255, 162, 69));
+    background-image: linear-gradient(180deg,rgb(0, 149, 255),rgb(255, 162, 69));
     height: 130%;
     animation: rotBGimg 3s linear infinite;
     transition: all 0.2s linear;
@@ -93,7 +93,7 @@
 
 
 .tanimatcard1::before{
-    background-image: linear-gradient(180deg,cyan,rgb(255, 65, 96));
+    background-image: linear-gradient(180deg,rgb(0, 174, 255),rgb(255, 65, 96));
 }
 .tanimatcard2::before{
     background-image: linear-gradient(180deg, #008080,orange);
