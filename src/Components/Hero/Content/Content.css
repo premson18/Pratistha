@@ -61,7 +61,7 @@ div{
 }
 .bold1{
     font-weight: 700;
-    font-family: ;
+    font-family:sans-serif;
 }
 
 @media (min-width : 209px) and (max-width: 699px){
