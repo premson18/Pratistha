@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../Hero/Content/Content.css';
 import '../Content/title.css'
+import Countdown from './countdown/Countdown';
 
 
 import Typewriter from './Typewriter/Typewriter'
@@ -10,7 +11,7 @@ const Content = () => {
     <div className='hero2'>
       
       <div className='matter'>
-        <p className='dept'>
+        <p className='dept bold1'>
           Jawaharlar Nehru Technological University - Gurajada Vizianagaram
         </p>
         <p className='dept bold1'>Department of Civil Enginering</p>
@@ -28,12 +29,9 @@ const Content = () => {
         <span>H</span>
         <span>A</span>
     </h1>
-      <h5 className='bold2'>2K25</h5>
+      <h5 className='bold1 twok25'>2K25</h5>
       <p className='date bold1'>March 3 & 4</p>
-      
       </div>
-      
-      
     </div>
   )
 }

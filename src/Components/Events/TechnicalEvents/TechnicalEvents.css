@@ -121,7 +121,7 @@
     background-position: center;
     background-clip: border-box;
     background-attachment: fixed;
-    filter: blur(1px);
+    filter: blur(0.5px);
     
 }
 
@@ -132,7 +132,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1px);
+    filter: blur(0.3px);
 }
 .tanimatcard3::after{
     background: url('../../../assets/eventimages/stixtopia.jpeg');
@@ -141,7 +141,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.3px);
 }
 .tanimatcard4::after{
     background: url('../../../assets/eventimages/ppt.jpeg');
@@ -150,7 +150,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.5px);
 }
 .tanimatcard5::after{
     background: url('../../../assets/eventimages/surveying.jpeg');
@@ -159,16 +159,16 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.5px);
 }
 .tanimatcard6::after{
     background: url('../../../assets/eventimages/projectexpo.jpeg');
-    background-size: cover;
-    background-position:-190px;
+    background-size: 240%;
+    background-position:;
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.5px);
     
 }
 

@@ -6,14 +6,10 @@ const Workshop = () => {
   return (
     <div>
       <section id='workshop1'>
-      <div className="workshop-card">
-        <div className="image animatercard1">
-          <div>
-          <h4>Workshop</h4>
-          <button>REGISTER NOW</button>
-          </div>
-        </div>
-        
+        <div className="workshop-card">
+         <div> <h1>Workshop</h1><br></br>
+      <h3>Not yet Decided</h3>
+      </div>
       </div>
       </section>
     </div>

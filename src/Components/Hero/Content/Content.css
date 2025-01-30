@@ -11,7 +11,8 @@
     text-align: center;
     font-size: 3.5rem;
     z-index: 4000;
-    color: goldenrod;
+
+    color: black;
     -webkit-text-stroke: 0.5px;
     -webkit-text-stroke-color: rgb(0, 0, 0);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -27,25 +28,20 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.twok25{
+    font-size: 2.4rem;
+}
+
 div{
     z-index: 2000;
-}
-.matter h1{
-    font-family: myfont;
-    font-weight: 100;
-    color: #001a1a;
-     
-    -webkit-text-stroke: 0.5px;
-    -webkit-text-stroke-color: rgb(0, 98, 255);
-    font-weight: 10;
-    z-index: 200000;
 }
 .particles{
     height: 100vh;
 }
 .auto-type{
-    color: gray;
-    font-size: 40px;
+    color: rgb(73, 58, 119);
+    font-size: 50px;
+    text-shadow: 0 0 10px white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -58,24 +54,16 @@ div{
 .dept{
     font-size: 2.5rem;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-style: italic;
     font-size: 1.5rem;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 .bold1{
-    font-weight: 700;
+    font-weight: 800;
     font-family:sans-serif;
+    text-shadow: 0 0 10px rgb(236, 205, 0);
 }
 
-@media (min-width : 209px) and (max-width: 699px){
-    .matter h1{
-        font-size: 7.5rem;
-    }
-    .date{
-        font-size: 50px;
-    }
-   
-}
+
 
 @media screen and (max-width : 1080px) {
     .matter h1{
@@ -85,10 +73,10 @@ div{
         font-size: 30px;
     }
     .matter{
-        font-size: 1.5rem;
+        font-size: 0.5rem;
     }
     .dept{
-        font-size: 1.7rem;
+        font-size: 1rem;
     }
     .to{
         font-size: 2rem;

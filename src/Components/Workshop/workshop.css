@@ -9,7 +9,12 @@
    align-items: center;
    padding: 50px 0px;
    position: relative;
-   background-color: rgb(57, 57, 57);
+   background-color: rgba(57, 57, 57, 0.509);
+   
+}
+
+.workshop-card{
+    height: 50vh;
 }
 
 .image{

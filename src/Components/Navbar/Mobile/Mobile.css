@@ -76,11 +76,11 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        height: 7vh;
-        position:fixed;
+        height: 9vh;
+        position: sticky;
         top: 2px;
         left: 0;
-        background-color: rgba(174, 0, 255, 0.529);
+        background-color: rgb(0, 103, 103);
         width: 100%;
         z-index: 20000;
         
