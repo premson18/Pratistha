@@ -1,7 +1,7 @@
 import React from 'react'
 import './Mobile.css'
 import logo from '../../../assets/logo.png'
-import Instagram from '../../../assets/instagram.png'
+import Instagram from '../../../assets/instagram.webp'
 const scrollToSection = (sectionId) => {
     const element =  document.getElementById(sectionId);
     if(element){

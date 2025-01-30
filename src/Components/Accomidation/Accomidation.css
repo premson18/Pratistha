@@ -6,13 +6,13 @@
     padding-top: 10px;
     padding-bottom: 10px;
     width: 100%;
-    background-color: aquamarine;
-    border: 1px solid black;
+
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: nowrap;
     flex-grow: 1;
+    
 }
 .scard{
     width: 70%;
@@ -26,6 +26,9 @@
     align-items: center;
 }
 
+.accinfo{
+    border: 3px solid rgb(148, 104, 0);
+}
 .accomh1{
     text-align: center;
     font-size: 2.5rem;

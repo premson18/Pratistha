@@ -14,6 +14,7 @@ body{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background: linear-gradient(to left ,black, teal,black);
 }
 
 a{

@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-@media (min-width : 1080px){
+@media (min-width : 770px){
     .mobnav{
         display: none;
     }
@@ -47,12 +47,14 @@
         gap: 0;
         flex-grow: 59%;
         flex-shrink: 100%;
-        background-color: blueviolet;
+        background-color: teal;
         
     }
-    .mobnav ul:active{
-        background-color: blue;
+
+    .mobnav ul li button:hover{
+        background-color: yellowgreen;
     }
+    
     
     .mobnav ul li{
         background-color: rgba(132, 0, 255, 0);

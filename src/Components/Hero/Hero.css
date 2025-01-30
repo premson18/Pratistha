@@ -7,9 +7,10 @@
     background-size: cover;
     background-position: 0;
     background-attachment: fixed;
-    opacity: 0.9;
+    opacity: 0.85;
+    z-index: 100;
 
-    
+
     
   }
   .hero2{
@@ -26,8 +27,9 @@
     
   }
   .bg{
-    background-color: rgba(0, 0, 0, 0.265);
+    background-color: rgba(57, 57, 57, 0.265);
     box-shadow: 0 0  20px black;
+    z-index: 3000;
   }
 
 

@@ -1,6 +1,6 @@
 .teventsmain{
     min-height: 70vh;
-    background-color: rgb(108, 108, 108);
+    
     box-sizing: border-box;
     z-index: 3000;
     padding-top: 2%;
@@ -11,7 +11,7 @@
     text-align: center;
     font-size:50px;
     z-index: 2000;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 .tevents{
@@ -36,14 +36,18 @@
 .techevents-cards .card3{
     width: 150px;
     height: 240px;
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(199, 197, 197);
     box-sizing: border-box;
     animation: appear 2s linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
     
 }
+
 
 .tanimatcard{
     position: relative;
@@ -61,13 +65,13 @@
 .tanimatcard::before{
     content: '';
     position: absolute;
-    width: 400px;
-    background-image: linear-gradient(180deg,rgb(0, 149, 255),rgb(255, 162, 69));
-    height: 130%;
+    width: 80px;
+    /* background-image: linear-gradient(180deg,rgb(0, 149, 255),rgb(255, 162, 69));
+     */height: 130%;
+     background: aliceblue;
     animation: rotBGimg 3s linear infinite;
     transition: all 0.2s linear;
     box-sizing: border-box;
-    border: 1px solid white;
 }
 
 @keyframes rotBGimg{
@@ -93,8 +97,8 @@
 
 
 .tanimatcard1::before{
-    background-image: linear-gradient(180deg,rgb(0, 174, 255),rgb(255, 65, 96));
-}
+  /*   background-image: linear-gradient(180deg,rgb(0, 174, 255),rgb(255, 65, 96));
+ */}
 .tanimatcard2::before{
     background-image: linear-gradient(180deg, #008080,orange);
 }
@@ -117,7 +121,7 @@
     background-position: center;
     background-clip: border-box;
     background-attachment: fixed;
-    filter: blur(1.5px);
+    filter: blur(1px);
     
 }
 
@@ -128,7 +132,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(1px);
 }
 .tanimatcard3::after{
     background: url('../../../assets/eventimages/stixtopia.jpeg');
@@ -172,7 +176,6 @@
 @media (min-width : 320px) and (max-width: 768px) {
     .teventsmain{
         height: 120vh;
-        background-color: rgb(27, 29, 29);
         box-sizing: border-box;
         padding-bottom: 50px;
     }
@@ -204,7 +207,6 @@
     }
     .teventsmain{
         min-height: 70vh;
-        background: linear-gradient(to right, black,grey,rgb(0, 0, 0));
         box-sizing: border-box;
         
 

@@ -1,6 +1,6 @@
 .nteventsmain{
     min-height: 70vh;
-    background-color: rgb(108, 108, 108);
+
     box-sizing: border-box;
     z-index: 3000;
     padding-top: 2%;
@@ -172,7 +172,6 @@
 @media (min-width : 320px) and (max-width: 768px) {
     .nteventsmain{
         height: 120vh;
-        background-color: rgb(27, 29, 29);
         box-sizing: border-box;
         padding-bottom: 50px;
     }
@@ -204,7 +203,6 @@
     }
     .nteventsmain{
         min-height: 70vh;
-        background: linear-gradient(to right, black,grey,rgb(0, 0, 0));
         box-sizing: border-box;
         
 

@@ -24,7 +24,7 @@ const ParticlesComponent = (props) => {
       {
     background: {
        color: {
-         value: "",
+         value: "transparent",
          opacity:0,
       
        },
@@ -47,20 +47,21 @@ const ParticlesComponent = (props) => {
             duration: 12,
           },
           grab: {
-            distance: 190,
+            distance: 100,
           },
         },
       },
       particles: {
         color: {
-          value: "#ff6600",
+          value: "#000000",
+          opacity:0.5,
         },
         links: {
-          color: "#ff6600",
+          color: "#ffffff",
           distance: 150,
           enable: true,
-          opacity: 1,
-          width: 0.5,
+          opacity: 0.5,
+          width: 1,
         },
         move: {
           direction: "none",

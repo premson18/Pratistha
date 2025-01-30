@@ -1,20 +1,34 @@
 import React from 'react';
 import '../../Hero/Content/Content.css';
+import '../Content/title.css'
 
 
 import Typewriter from './Typewriter/Typewriter'
 
 const Content = () => {
   return (
-    <div>
+    <div className='hero2'>
       
       <div className='matter'>
+        <p className='dept'>
+          Jawaharlar Nehru Technological University - Gurajada Vizianagaram
+        </p>
         <p className='dept bold1'>Department of Civil Enginering</p>
         <h5>
         <Typewriter/>
           <p className='to bold1'>To</p></h5>
-      <h1>(Pratistha)</h1>
-      <h5 className='bold2'>2K2c5</h5>
+          <h1 class="title">
+        <span>P</span>
+        <span>R</span>
+        <span>A</span>
+        <span>T</span>
+        <span>I</span>
+        <span>S</span>
+        <span>T</span>
+        <span>H</span>
+        <span>A</span>
+    </h1>
+      <h5 className='bold2'>2K25</h5>
       <p className='date bold1'>March 3 & 4</p>
       
       </div>

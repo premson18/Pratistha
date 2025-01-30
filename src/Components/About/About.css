@@ -10,6 +10,7 @@
     flex-grow: 1;
     flex-wrap: wrap;
     background-color: linea;
+    color: rgb(165, 140, 0);
 }
 .aboutinfo{
     border: 2px solid black;

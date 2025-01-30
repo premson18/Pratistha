@@ -3,7 +3,7 @@ import './Accomidation.css'
 const Accomidation = () => {
   return (
     <div>
-      <section id='accomidation'>
+      <section id='accomidation '>
       <div className='scontainer'>
           
         <div className="simage scard">

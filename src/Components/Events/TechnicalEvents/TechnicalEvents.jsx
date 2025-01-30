@@ -14,8 +14,8 @@ const TechnicalEvents = () => {
 
         <div className="card3 tanimatcard tanimatcard1">
           <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div><div>
+            <h2>AutoCad</h2>
+            <button className='register' href="youtube.com">Register Here</button></div><div>
         </div>
              </div>
         <div className="card3 tanimatcard tanimatcard2">
