@@ -14,17 +14,59 @@ const TechnicalEvents = () => {
 
         <div className="card3 tanimatcard tanimatcard1">
           <div className="freefire">
+            <div>
             <h2>AutoCad</h2>
-            <button className='register'>Register Here</button></div><div>
-        </div>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
              </div>
         <div className="card3 tanimatcard tanimatcard2">
-  
+        <div className="freefire">
+            <div>
+            <h2>AutoCad</h2>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
+             </div>
+        
+        <div className="card3 tanimatcard tanimatcard3">
+        <div className="freefire">
+            <div>
+            <h2>AutoCad</h2>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
         </div>
-        <div className="card3 tanimatcard tanimatcard3"></div>
-        <div className="card3 tanimatcard tanimatcard4"></div>
-        <div className="card3 tanimatcard tanimatcard5"></div>
-        <div className="card3 tanimatcard tanimatcard6"></div>
+        <div className="card3 tanimatcard tanimatcard4">
+        <div className="freefire">
+            <div>
+            <h2>AutoCad</h2>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
+        </div>
+        <div className="card3 tanimatcard tanimatcard5">
+        <div className="freefire">
+            <div>
+            <h2>AutoCad</h2>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
+        </div>
+        <div className="card3 tanimatcard tanimatcard6">
+        <div className="freefire">
+            <div>
+            <h2>AutoCad</h2>
+            <p>Date:</p>
+            <button>Register here</button>
+            </div>
+            </div>
+        </div>
       </div>
 
       </div>

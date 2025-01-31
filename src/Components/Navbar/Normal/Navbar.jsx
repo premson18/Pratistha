@@ -27,7 +27,7 @@ const Navbar = () => {
         </ul>
        
        <div className="icons">
-        <a href='insatagram'><img src={Instagram} alt=""  className='icon1'/></a>
+        <a href='insatagram.com'><img src={Instagram} alt=""  className='icon1'/></a>
         <img src="" alt="" />
         <img src="" alt="" />
        </div>

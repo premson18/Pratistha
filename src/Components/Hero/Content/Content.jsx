@@ -31,6 +31,7 @@ const Content = () => {
     </h1>
       <h5 className='bold1 twok25'>2K25</h5>
       <p className='date bold1'>March 3 & 4</p>
+      <Countdown/>
       </div>
     </div>
   )

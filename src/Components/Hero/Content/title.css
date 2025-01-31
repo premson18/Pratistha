@@ -10,18 +10,19 @@ body{
     /*-webkit-font-smoothing : antialiased;*/
 }
 
-.title{
-   
-   
-}
+
 .title span{
     position: relative;
     top: 20px;
     display: inline-block;
     -webkit-animation: bounce 1s ease infinite alternate;
     font-size: 100px;
-    color: #003333;
-    text-shadow: 0 1px 0 rgb(0, 0, 0) , 0 2px 0 rgb(255, 145, 0), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 rgb(248, 13, 13) , 0 6px 0 blueviolet, 0 7px 0 transparent, 0 8px 0 transparent,0 9px 0 rgb(255, 204, 0), 0 10px 10px rgba(0,0,0,1);
+    color: rgb(150, 131, 27);
+    text-shadow: 0 1px 0 rgb(255, 165, 29) , 0 2px 0 rgb(255, 145, 0), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 rgb(248, 13, 13) , 0 6px 0 blueviolet, 0 7px 0 transparent, 0 8px 0 transparent,0 9px 0 rgb(255, 204, 0), 0 10px 10px rgba(0,0,0,1);
+    font-family: Arial,Helvetica, sans-serif;
+    background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .title span:nth-child(2){

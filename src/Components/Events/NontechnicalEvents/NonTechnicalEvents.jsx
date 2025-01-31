@@ -14,17 +14,35 @@ const NonTechnicalEvents = () => {
 
         <div className="ncard3 ntanimatcard ntanimatcard1">
           <div className="freefire">
+            <div>
             <h5>Freefire</h5>
-            <button></button></div><div>
+           <a href='www.youtube.com' target="_blank" rel="noopener noreferrer"><button>Register Here</button></a> </div></div>
         </div>
-             </div>
         <div className="ncard3 ntanimatcard ntanimatcard2">
-  
+        <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div>
         </div>
-        <div className="ncard3 ntanimatcard ntanimatcard3"></div>
-        <div className="ncard3 ntanimatcard ntanimatcard4"></div>
-        <div className="ncard3 ntanimatcard ntanimatcard5"></div>
-        <div className="ncard3 ntanimatcard ntanimatcard6"></div>
+        <div className="ncard3 ntanimatcard ntanimatcard3">
+        <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div>
+        </div>
+        <div className="ncard3 ntanimatcard ntanimatcard4">
+        <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div>
+        </div>
+        <div className="ncard3 ntanimatcard ntanimatcard5">
+        <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div>
+        </div>
+        <div className="ncard3 ntanimatcard ntanimatcard6">
+        <div className="freefire">
+            <h5>Freefire</h5>
+            <button></button></div>
+        </div>
       </div>
 
       </div>

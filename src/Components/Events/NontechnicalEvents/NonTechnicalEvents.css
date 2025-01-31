@@ -61,7 +61,7 @@
 .ntanimatcard::before{
     content: '';
     position: absolute;
-    width: 400px;
+    width: 100px;
     background-image: linear-gradient(180deg,cyan,rgb(255, 162, 69));
     height: 130%;
     animation: rotBGimg 3s linear infinite;
@@ -117,7 +117,7 @@
     background-position: center;
     background-clip: border-box;
     background-attachment: fixed;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
     
 }
 
@@ -128,7 +128,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
 }
 .ntanimatcard3::after{
     background: url('../../../assets/eventimages/stixtopia.jpeg');
@@ -137,7 +137,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
 }
 .ntanimatcard4::after{
     background: url('../../../assets/eventimages/ppt.jpeg');
@@ -146,7 +146,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
 }
 .ntanimatcard5::after{
     background: url('../../../assets/eventimages/surveying.jpeg');
@@ -155,7 +155,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
 }
 .ntanimatcard6::after{
     background: url('../../../assets/eventimages/projectexpo.jpeg');
@@ -164,7 +164,7 @@
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    filter: blur(1.5px);
+    filter: blur(0.1px);
     
 }
 
