@@ -17,7 +17,7 @@ const TechnicalEvents = () => {
             <div>
             <h2>AutoCad</h2>
             <p>Date:</p>
-            <button>Register here</button>
+            <a href='www.youtube.com' target='_blank' rel="noopener noreferrer" >Register here</a>
             </div>
             </div>
              </div>
@@ -52,7 +52,7 @@ const TechnicalEvents = () => {
         <div className="card3 tanimatcard tanimatcard5">
         <div className="freefire">
             <div>
-            <h2>AutoCad</h2>
+            <h2>Under Construction..</h2>
             <p>Date:</p>
             <button>Register here</button>
             </div>
