@@ -15,25 +15,24 @@ const Navbar = () => {
   return (
     <div>
     <nav className='container1'>
-       <img src={logo} alt=""  className='logo'/>
+       <img src="" alt="" />
       <ul className="menu">
         <li><a onClick={() => scrollToSection ('home')}>Home</a></li>
        <li><a onClick={() => scrollToSection ('workshop1')}>Workshop</a></li>
        <li><a onClick={() => scrollToSection ('events123')}>Events</a></li> 
-       <li><a onClick={() => scrollToSection ('accomidation')}>Accomidation</a></li> 
+       <li><a onClick={() => scrollToSection ('accomidation123')}>Accomidation</a></li> 
        <li>  <a onClick={() => scrollToSection ('about')}>About</a></li>
        <li>  <a onClick={() => scrollToSection ('contact')}>Contact us</a></li>
-       <li>  <a onClick={() => scrollToSection ('more')}>More</a></li>
+       <li>  <a onClick={() => scrollToSection ('sponsors')}>More</a></li>
         </ul>
        
-       <div className="icons">
-        <a href='insatagram.com'><img src={Instagram} alt=""  className='icon1'/></a>
-        <img src="" alt="" />
-        <img src="" alt="" />
-       </div>
+       
+       <img src={logo} alt=""  className='logo'/>
+       
+       
     </nav>
-    
     </div>
+    
   )
 }
 

@@ -1,5 +1,6 @@
 import React from 'react'
 import './TechnicalEvents.css'
+import '../../Events/eventsinfo.css'
 import { motion } from 'framer-motion'
 
 const TechnicalEvents = () => {
@@ -14,57 +15,57 @@ const TechnicalEvents = () => {
 
         <div className="card3 tanimatcard tanimatcard1">
           <div className="freefire">
-            <div>
-            <h2>AutoCad</h2>
-            <p>Date:</p>
-            <a href='www.youtube.com' target='_blank' rel="noopener noreferrer" >Register here</a>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
              </div>
         <div className="card3 tanimatcard tanimatcard2">
         <div className="freefire">
-            <div>
-            <h2>AutoCad</h2>
-            <p>Date:</p>
-            <button>Register here</button>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
              </div>
         
         <div className="card3 tanimatcard tanimatcard3">
         <div className="freefire">
-            <div>
-            <h2>AutoCad</h2>
-            <p>Date:</p>
-            <button>Register here</button>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
         </div>
         <div className="card3 tanimatcard tanimatcard4">
         <div className="freefire">
-            <div>
-            <h2>AutoCad</h2>
-            <p>Date:</p>
-            <button>Register here</button>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
         </div>
         <div className="card3 tanimatcard tanimatcard5">
         <div className="freefire">
-            <div>
-            <h2>Under Construction..</h2>
-            <p>Date:</p>
-            <button>Register here</button>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
         </div>
         <div className="card3 tanimatcard tanimatcard6">
         <div className="freefire">
-            <div>
-            <h2>AutoCad</h2>
-            <p>Date:</p>
-            <button>Register here</button>
-            </div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
             </div>
         </div>
       </div>

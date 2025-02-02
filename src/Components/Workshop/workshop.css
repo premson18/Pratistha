@@ -2,73 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
 .workshop-card{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   padding: 50px 0px;
-   position: relative;
-   background-color: rgba(57, 57, 57, 0.509);
-   
-}
-
-.workshop-card{
-    height: 50vh;
-}
-
-.image{
-    width: 60%;
-    height: 400px;
-    background-image: url('../../assets/BIM.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    opacity: 0.8;
-    
-}
-.image h4{
-   color: rgba(2, 35, 253, 0.536);
-   font-size: 4rem;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px 0;
+
 
 }
-
-.animatcard1::before{
-    content: '';
-    position: absolute;
-    width: 100%;
-    background-image: linear-gradient(180deg,cyan,rgb(255, 9, 50));
-    height: 130%;
-    animation: rotBGimg1 3s linear infinite;
-    transition: all 0.2s linear;
-}
-
-.animatcard1::after{
-    content: "";
-    position: absolute;
-    background-size: 350%;
-    background-position: center;
-    inset: 5px;
-    border-radius: 15px;
-}
-
-@keyframes rotBGimg1{
-    from{
-        transform: rotate(0deg);
-    }
-    to{
-        transform: rotate(360deg);
-    }
-}
-
-/*@media screen and (max-width : 1080px){
-    .image{
-        width: 350px;
-    height: 450px;
-    font-size: 1.5rem;
-    }
-}*/

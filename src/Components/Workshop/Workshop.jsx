@@ -7,8 +7,8 @@ const Workshop = () => {
     <div>
       <section id='workshop1'>
         <div className="workshop-card">
-         <div> <h1>Workshop</h1><br></br>
-      <h3>Not yet Decided</h3>
+         <div className='eventsinfo'> <h1>Workshop</h1><br></br>
+      <h3>Under Construction</h3>
       </div>
       </div>
       </section>

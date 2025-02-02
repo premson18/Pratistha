@@ -10,6 +10,7 @@ import TechnicalEvents from './Components/Events/TechnicalEvents/TechnicalEvents
 import NonTechnicalEvents from './Components/Events/NontechnicalEvents/NonTechnicalEvents'
 import About from './Components/About/About'
 import Mobile from './Components/Navbar/Mobile/Mobile'
+import Follow from './Components/Follow/Follow'
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <Accomidation/>
       <Contact/>
       <Sponsors/>
+      <Follow />
       
     </>
   )

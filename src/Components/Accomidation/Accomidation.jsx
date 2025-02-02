@@ -3,9 +3,8 @@ import './Accomidation.css'
 const Accomidation = () => {
   return (
     <div>
-      <section id='accomidation '>
+      <section id='accomidation123'>
       <div className='scontainer'>
-          
         <div className="simage scard">
         <div className="accinfo">
             <h1 className='accomh1'>Accomidation</h1>

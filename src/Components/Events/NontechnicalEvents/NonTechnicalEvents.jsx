@@ -13,35 +13,58 @@ const NonTechnicalEvents = () => {
       <div className="ntechevents-cards container1">
 
         <div className="ncard3 ntanimatcard ntanimatcard1">
-          <div className="freefire">
-            <div>
-            <h5>Freefire</h5>
-           <a href='www.youtube.com' target="_blank" rel="noopener noreferrer"><button>Register Here</button></a> </div></div>
+        <div className="freefire">
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard2">
         <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard3">
         <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard4">
         <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard5">
         <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard6">
         <div className="freefire">
-            <h5>Freefire</h5>
-            <button></button></div>
+            <div className='eventsinfo'>
+            <h4>Under <br></br>Construction...</h4>
+        
+
+</div>
+            </div>
         </div>
       </div>
 
