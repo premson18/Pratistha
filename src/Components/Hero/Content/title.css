@@ -7,7 +7,7 @@ body{
 
     
     font-family: sans-serif;
-    /*-webkit-font-smoothing : antialiased;*/
+    -webkit-font-smoothing : antialiased;
 }
 
 
@@ -17,8 +17,8 @@ body{
     display: inline-block;
     -webkit-animation: bounce 1s ease infinite alternate;
     font-size: 100px;
-    color: rgb(150, 131, 27);
-    text-shadow: 0 1px 0 rgb(255, 165, 29) , 0 2px 0 rgb(255, 145, 0), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 rgb(248, 13, 13) , 0 6px 0 blueviolet, 0 7px 0 transparent, 0 8px 0 transparent,0 9px 0 rgb(255, 204, 0), 0 10px 10px rgba(0,0,0,1);
+    color: #F2E5BF;
+    text-shadow: 0 1px 0 #ffcc31 , 0 2px 0 rgb(0, 23, 154), 0 3px 0 rgb(0, 43, 200), 0 4px 0 rgb(20, 0, 236), 0 4px 0 rgb(195, 0, 255) , 0 6px 0 rgb(224, 28, 242), 0 7px 0 transparent, 0 8px 0 transparent,0 9px 0 rgb(255, 0, 0), 0 10px 10px rgba(0,0,0,1);
     font-family: Arial,Helvetica, sans-serif;
     background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
     -webkit-text-fill-color: transparent;
@@ -67,7 +67,7 @@ body{
 @-webkit-keyframes bounce{
     100%{
         top: -2px;
-        text-shadow: 0 1px 0 rgb(255, 14, 14) , 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
+        text-shadow: 0 1px 0 rgb(0, 170, 255) , 0 2px 0 rgb(0, 158, 175), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
     }
 }
 
@@ -79,7 +79,7 @@ body{
     
     @-webkit-keyframes bounce{
         100%{
-            top: -2px;
+            top: -3px;
             text-shadow: 0 1px 0 rgb(255, 14, 14) , 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
         }
     }

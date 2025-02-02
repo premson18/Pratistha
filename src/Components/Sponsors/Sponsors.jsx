@@ -1,5 +1,6 @@
 import React from 'react'
 import './Sponsors.css'
+import logo from '../../assets/instagram.webp'
 
 const Sponsors = () => {
   return (
@@ -36,6 +37,8 @@ const Sponsors = () => {
             <div className="item-3 item7"></div>
             <div className="item-3 item8"></div>
         </div>
+
+      
         </section>
     </div>
   )

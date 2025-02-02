@@ -18,9 +18,9 @@ nav{
 }
 
 .logo{
-    width: 40px;
-    height: 40px;
-    margin: 20px 0;
+    width: 50px;
+    height: 50px;
+    
 }
 nav ul li{
     display: inline-block;
@@ -41,6 +41,13 @@ nav ul li{
 }
 --webkit-scrollpath{
     display: none;
+}
+
+.jntugvlogo{
+    border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
 }
 
 @media (min-width : 419px ) and (max-width : 770px){

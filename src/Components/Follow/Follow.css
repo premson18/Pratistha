@@ -10,7 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 30vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 
@@ -19,11 +20,16 @@
     text-align: center;
 }
 
+.follow h5{
+    color: wheat;
+    text-align: center;
+}
 
 .follow img {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     justify-content: center;
     align-self: center;
-    margin: 30%;
+    text-align: center;
+    color: black;
 }

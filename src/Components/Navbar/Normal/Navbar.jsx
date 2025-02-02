@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Navbar.css"
 import logo from "../../../assets/logo.png"
-import Instagram from "../../../assets/instagram.webp"
+import JNTUGV from "../../../assets/jntugv.png"
 
 
 const scrollToSection = (sectionId) => {
@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div>
     <nav className='container1'>
-       <img src="" alt="" />
+       <img src={JNTUGV} alt=""  className='jntugvlogo'/>
       <ul className="menu">
         <li><a onClick={() => scrollToSection ('home')}>Home</a></li>
        <li><a onClick={() => scrollToSection ('workshop1')}>Workshop</a></li>

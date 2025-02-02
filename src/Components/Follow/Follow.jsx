@@ -10,9 +10,10 @@ const Follow = () => {
             <div>
                 <h3>Follow Us On</h3>
                 <img src={Instagram} alt="" srcset="" />
+                <h5>copyrights@Premson</h5>
                  </div>
         </div>
-        <h3>Follow</h3>
+        
       </section>
     </div>
   )
