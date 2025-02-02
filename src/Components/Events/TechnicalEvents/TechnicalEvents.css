@@ -195,7 +195,7 @@
 
 @media (min-width : 320px) and (max-width: 768px) {
     .teventsmain{
-        height: 120vh;
+        height: 80npvh;
         box-sizing: border-box;
         padding-bottom: 50px;
     }
