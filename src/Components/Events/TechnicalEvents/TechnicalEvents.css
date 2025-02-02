@@ -257,7 +257,7 @@
         scale: 1;
     }
 }
-@media (min-width:321px) and (max-width:375px) {
+@media (min-width:375px) and (max-width:425px) {
     .teventsmain{
         height: 50vh;
     }
