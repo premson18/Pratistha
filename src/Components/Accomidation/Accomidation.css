@@ -29,6 +29,7 @@
 .accinfo{
     border: 3px solid rgb(148, 104, 0);
     color: #F6FB7A;
+    padding: 0 3%;
 }
 .accomh1{
     text-align: center;
@@ -46,13 +47,15 @@
 }
 
 .btn button{
-    padding: 8px 60px;
-    background: linear-gradient(45deg , red,white,rgb(0, 124, 128),cyan);
+    padding: 8px 100px;
+    background: linear-gradient(45deg , red,rgb(247, 14, 255),rgb(17, 0, 255),rgb(0, 255, 102));
     border: none;
     box-shadow: 0 0 0 0 10px black ;
+    border: none;
+    border-radius: 50px;
 }
 .btn button:hover {
-    background: blueviolet;
+    background: rgb(255, 255, 101);
 }
 
 .accinfo p{

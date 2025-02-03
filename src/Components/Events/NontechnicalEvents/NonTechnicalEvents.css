@@ -68,7 +68,6 @@
     animation: rotBGimg 3s linear infinite;
     transition: all 0.2s linear;
     box-sizing: border-box;
-    border: 1px solid white;
 }
 
 @keyframes rotBGimg{
@@ -113,18 +112,19 @@
 }
 
 .ntanimatcard1::after{
-    background: url('../../../assets/eventimages/autocad.jpeg');
-    background-size: 130%;
+    background: url('../../../assets/eventimages/freefire.jpeg');
+    background-size: cover;
     background-position: center;
     background-clip: border-box;
     background-attachment: fixed;
     filter: blur(0.1px);
+    background-repeat: no-repeat;
     
 }
 
 .ntanimatcard2::after{
-    background: url('../../../assets/eventimages/quiz.png');
-    background-size: 170%;
+    background: url('../../../assets/eventimages/photocontest.jpeg');
+    background-size: cover;
     background-position: center;
     background-clip: border-box;
     background-attachment: fixed;
@@ -132,7 +132,7 @@
     filter: blur(0.1px);
 }
 .ntanimatcard3::after{
-    background: url('../../../assets/eventimages/stixtopia.jpeg');
+    background: url('../../../assets/eventimages/treasurehunt.jpeg');
     background-size: cover;
     background-position: center;
     background-clip: border-box;
@@ -141,7 +141,7 @@
     filter: blur(0.1px);
 }
 .ntanimatcard4::after{
-    background: url('../../../assets/eventimages/ppt.jpeg');
+    background: url('../../../assets/eventimages/tumbletower.jpeg');
     background-size: cover;
     background-position:right;
     background-clip: border-box;
@@ -150,7 +150,7 @@
     filter: blur(0.1px);
 }
 .ntanimatcard5::after{
-    background: url('../../../assets/eventimages/surveying.jpeg');
+    background: url('../../../assets/eventimages/RUBIKS.jpeg');
     background-size: cover;
     background-position: center;
     background-clip: border-box;
@@ -159,7 +159,7 @@
     filter: blur(0.1px);
 }
 .ntanimatcard6::after{
-    background: url('../../../assets/eventimages/projectexpo.jpeg');
+    background: url('../../../assets/eventimages/beyondthe.jpeg');
     background-size: cover;
     background-position:-190px;
     background-clip: border-box;
@@ -169,6 +169,17 @@
     
 }
 
+.nontech{
+    background-color: rgba(0, 0, 0, 0.564);
+    width: 94%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+    font-weight: 100;
+    
+}
 
 @media (min-width : 320px) and (max-width: 375px) {
     .nteventsmain{

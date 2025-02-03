@@ -19,8 +19,8 @@ const TechnicalEvents = () => {
             <h4>Clash of Cadd<br></br>(AutoCad)</h4>
             <p>Team(3) :- 249/-</p>
             <p>Single: 199/-</p>
-            <a>Register Here</a>
-
+            <a className='registration'>Register Here</a>
+            
 </div>
             </div>
              </div>

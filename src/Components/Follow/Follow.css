@@ -4,6 +4,11 @@
 
 }
 
+@font-face {
+    font-family: Instagram;
+    src: url("../../assets/Socialmedia.ttf");
+}
+
 .follow{
     background-color: black;
     z-index: 100000;
@@ -11,7 +16,7 @@
     justify-content: center;
     align-items: center;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
 
 }
 
@@ -26,10 +31,19 @@
 }
 
 .follow img {
-    width: 80px;
-    height: 80px;
-    justify-content: center;
-    align-self: center;
+    width: 100px;
+    height: 100px;
     text-align: center;
     color: black;
+    border-radius: 50%;
+    margin: 0 20px;
+    
+
+}
+
+.logo{
+    font-family: Instagram;
+    color: white;
+    text-align: center;
+
 }

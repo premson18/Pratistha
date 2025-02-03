@@ -73,7 +73,7 @@
 }
 
 .freefire{
-    background-color: rgba(0, 0, 0, 0.806);
+    background-color: rgba(0, 0, 0, 0.564);
     width: 94%;
     height: 95%;
     display: flex;
@@ -81,6 +81,14 @@
     align-items: center;
     border-radius: 18px;
 
+}
+
+.registration{
+    padding: 8px;
+    margin-top: 4px;
+    background-color: #ff0000;
+    text-align: center;
+    font-size: 15px;
 }
 
 .tanimatcard::before{

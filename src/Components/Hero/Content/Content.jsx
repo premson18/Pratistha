@@ -30,7 +30,7 @@ const Content = () => {
         <span>A</span>
     </h1>
       <h5 className='bold1 twok25'>2K25</h5>
-      <p className='date bold1'>March 3 & 4</p>
+      <p className='date bold1'>March 3<sup>rd</sup> & 4th<sup>th</sup></p>
       <Countdown/>
       </div>
     </div>

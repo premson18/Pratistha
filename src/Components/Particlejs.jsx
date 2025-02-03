@@ -47,13 +47,13 @@ const ParticlesComponent = (props) => {
             duration: 12,
           },
           grab: {
-            distance: 100,
+            distance: 200,
           },
         },
       },
       particles: {
         color: {
-          value: "#000000",
+          value: "#ffffff",
           opacity:0.5,
         },
         links: {
@@ -77,16 +77,16 @@ const ParticlesComponent = (props) => {
           density: {
             enable: true,
           },
-          value: 250,
+          value: 200,
         },
         opacity: {
-          value: 0.0,
+          value: 1,
         },
         shape: {
-          type: "triangle",
+          type: "circle",
         },
         size: {
-          value: { min: 1, max: 4 },
+          value: { min: 2, max: 3 },
         },
         postion:{
           value:{}

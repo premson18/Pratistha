@@ -5,13 +5,23 @@
 
 .eventsinfo{
     color: beige;
-    font-size: 0.9rem;
+    font-size: 1.3rem;
     text-align: center;
-    background-color: rgba(117, 117, 117, 0.231);
+    background-color: rgba(117, 117, 117, 0);
     
     border-radius: 20px;
     font-weight: 500;
     
 
 
+}
+@media (min-width:320px) and (max-width:768px) {
+     .eventsinfo{
+        font-size: 0.9rem;
+     }
+      .registration{
+        position: absolute;
+        bottom: 9;
+        left: 0;
+      }
 }
