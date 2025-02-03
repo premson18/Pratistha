@@ -221,9 +221,9 @@
 
 /*mobile view form 375px to 475px*/
 
-@media (min-width : 375px) and (max-width: 768px) {
+@media (min-width : 375px) and (max-width: 475px) {
     .teventsmain{
-        height: 50vh;
+        height: 70vh;
         box-sizing: border-box;
         padding-bottom: 50px;
     }
