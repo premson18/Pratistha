@@ -170,9 +170,33 @@
 }
 
 
-@media (min-width : 320px) and (max-width: 768px) {
+@media (min-width : 320px) and (max-width: 375px) {
     .nteventsmain{
         height: 120vh;
+        box-sizing: border-box;
+        padding-bottom: 50px;
+    }
+
+    .ntechevents-cards{
+
+        padding: 0 34px;
+    }
+    .ntechevents-cards .ncard3{
+        width: 150px;
+        height: 240px;
+        border: 2px solid black;
+        gap: 0;
+        padding: 0;
+        margin: 0;
+        
+    }
+    
+
+}
+
+@media (min-width : 375px) and (max-width: 768px) {
+    .nteventsmain{
+        height: 50vh;
         box-sizing: border-box;
         padding-bottom: 50px;
     }
