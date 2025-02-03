@@ -5,11 +5,12 @@
 
 .eventsinfo{
     color: beige;
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     text-align: center;
     background-color: rgba(117, 117, 117, 0.231);
     
     border-radius: 20px;
+    font-weight: 500;
     
 
 
