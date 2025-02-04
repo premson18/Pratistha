@@ -84,14 +84,16 @@
 }
 
 .registration{
-    padding: 8px 20px;
-    margin-top: 14px;
+    padding: 8px 40px;
+    margin-top: 4px;
     background-color: #ff0000;
     text-align: center;
     font-size: 15px;
+    width: 100%;
+    position: absolute;
     bottom: 0;
     left: 0;
-    color: aliceblue;
+    color: antiquewhite;
 }
 
 .tanimatcard::before{
@@ -208,7 +210,7 @@
 /* mobile view from 320px to 375px*/
 @media (min-width : 320px) and (max-width: 375px) {
     .teventsmain{
-        height: 120vh;
+        height: 130vh;
         box-sizing: border-box;
         padding-bottom: 50px;
     }
@@ -267,8 +269,8 @@
         
     }
     .teventsmain{
+        min-height: 40vh;
         box-sizing: border-box;
-        height: 100vh;
         
 
 }

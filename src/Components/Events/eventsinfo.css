@@ -4,8 +4,8 @@
 }
 
 .eventsinfo{
-    color: beige;
-    font-size: 1.2rem;
+    color: #f5f5dc;
+    font-size: 1rem;
     text-align: center;
     background-color: rgba(117, 117, 117, 0);
     
@@ -21,7 +21,7 @@
   margin-top: 14px;
   background-color: #ff0000;
   text-align: center;
-  font-size: 15px;
+  font-size: 13px;
   position: absolute;
   
   
