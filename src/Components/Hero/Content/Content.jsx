@@ -12,7 +12,7 @@ const Content = () => {
       
       <div className='matter'>
         <p className='dept bold1'>
-          Jawaharlar Nehru Technological University - Gurajada Vizianagaram
+          Jawaharlal Nehru Technological University - Gurajada Vizianagaram
         </p>
         <p className='dept bold1'>Department of Civil Enginering</p>
         <h5>
