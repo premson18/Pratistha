@@ -21,6 +21,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard2">
@@ -32,6 +33,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard3">
@@ -43,6 +45,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard4">
@@ -56,6 +59,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard5">
@@ -66,6 +70,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard6">
@@ -77,6 +82,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
       </div>

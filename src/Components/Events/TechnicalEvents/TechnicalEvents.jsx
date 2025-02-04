@@ -18,7 +18,7 @@ const TechnicalEvents = () => {
             <div className='eventsinfo'>
             <h4>Clash of Cadd<br></br>(AutoCad)</h4>
             <p>Team(3) :- 249/-</p>
-            <p>Single: 199/-</p>
+            <p>Single: 199/-</p><br></br>
             <a className='registration'>Register Here</a>
             
 </div>
@@ -30,6 +30,8 @@ const TechnicalEvents = () => {
             <h4>Brain Buzzer<br></br>(Quiz)</h4>
             <p>Team (3) :- 199/-</p>
             <p>Single :-149/-</p>
+            <br></br>
+            <a className='registration'>Register Here</a>
         
 
 </div>
@@ -42,6 +44,8 @@ const TechnicalEvents = () => {
             <h4>Sixtopia<br></br>(Stability Check)</h4>
             <p>Team(2) :- 149/-</p>
             <p>Single :- 99</p>
+            <br></br>
+            <a className='registration'>Register Here</a>
         
 
 </div>
@@ -52,6 +56,8 @@ const TechnicalEvents = () => {
             <div className='eventsinfo'>
             <h4>Technohunt<br></br>(Who Am I?)</h4>
             <p>Single - 49/-</p>
+            <br></br>
+            <a className='registration'>Register Here</a>
         
 
 </div>
@@ -63,6 +69,8 @@ const TechnicalEvents = () => {
             <h4>Abhivyaktia<br></br>PPT Presentation</h4>
 
             <p>Price :-149/-</p>
+            <br></br>
+            <a className='registration'>Register Here</a>
         
 
 </div>
@@ -74,9 +82,12 @@ const TechnicalEvents = () => {
             <h4>Geometery<br></br>(Surveying)</h4>
             <p>Team(2) :- 199/-</p>
             <p>Single :-149/-</p>
+            <br></br>
+            
         
 
 </div>
+<a className='registration'>Register Here</a>
             </div>
         </div>
       </div>
