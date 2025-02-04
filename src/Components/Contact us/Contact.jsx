@@ -8,10 +8,10 @@ const Contact = () => {
       
       <div className="contactinfo">
       <h1>Contact us</h1>
-      <p>Fest Cordinators:</p>
+      <p>Fest Coordinators:</p>
       <p>K.V.Satish</p>
       <p>9494581409</p>
-      <p>Student Cordinators & <br></br>Workshop Cordinator</p>
+      <p>Student Coordinators & <br></br>Workshop Coordinator</p>
       <p>Cheedi Yogesh</p>
       <p>6309143547</p>
 

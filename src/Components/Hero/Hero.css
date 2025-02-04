@@ -30,6 +30,7 @@
   @media (min-width: 320px) and (max-width:768px) {
     .hero2{
       height: 80vh;
+      width: 100%;
     }
   }
 

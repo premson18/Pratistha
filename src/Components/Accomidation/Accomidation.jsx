@@ -7,7 +7,7 @@ const Accomidation = () => {
       <div className='scontainer'>
         <div className="simage scard">
         <div className="accinfo">
-            <h1 className='accomh1'>Accomidation</h1>
+            <h1 className='accomh1'>Accommodation</h1>
             <p>✨ Welcome to JNTU-GV! ✨<br></br>
 
 We’re thrilled to offer 2 DAYS ACCOMMODATION for participants of Pratistha-2K25!<br></br> Enjoy a comfortable stay, delicious meals, and a vibrant campus atmosphere.<br></br>
