@@ -31,7 +31,7 @@ const Mobile = () => {
             <li><button onClick={() => scrollToSection ('accomidation123')} className='macc'><img src={Accommdation}></img>Accomidation</button></li>
             <li><button onClick={() => scrollToSection ('events123')}><img src={Events}></img>Events</button></li>
             <li><button onClick={() => scrollToSection ('about')}><img src={About}></img>About</button></li>
-            <li><button onClick={() => scrollToSection ('contact')}><img src={Contact}></img>ContactUs</button></li>
+            <li><button onClick={() => scrollToSection ('contact')}  className='macc'><img src={Contact}></img>ContactUs</button></li>
         </ul>
       </div>
     </div>
