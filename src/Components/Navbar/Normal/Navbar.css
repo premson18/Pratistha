@@ -50,6 +50,14 @@ nav ul li{
     border-radius: 50%;
 }
 
+.menuelements:active{
+    background-color: teal;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 50px;
+
+}
+
 @media (min-width : 419px ) and (max-width : 770px){
     a{
         font: 12px;

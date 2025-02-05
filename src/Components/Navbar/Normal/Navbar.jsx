@@ -17,13 +17,13 @@ const Navbar = () => {
     <nav className='container1'>
        <img src={JNTUGV} alt=""  className='jntugvlogo'/>
       <ul className="menu">
-        <li><a onClick={() => scrollToSection ('home')}>Home</a></li>
-       <li><a onClick={() => scrollToSection ('workshop1')}>Workshop</a></li>
-       <li><a onClick={() => scrollToSection ('events123')}>Events</a></li> 
-       <li><a onClick={() => scrollToSection ('accomidation123')}>Accomidation</a></li> 
-       <li>  <a onClick={() => scrollToSection ('about')}>About</a></li>
-       <li>  <a onClick={() => scrollToSection ('contact')}>Contact us</a></li>
-       <li>  <a onClick={() => scrollToSection ('sponsors')}>More</a></li>
+        <li><a onClick={() => scrollToSection ('home')} className="menuelements">Home</a></li>
+       <li><a onClick={() => scrollToSection ('workshop1')} className="menuelements">Workshop</a></li>
+       <li><a onClick={() => scrollToSection ('events123')} className="menuelements">Events</a></li> 
+       <li><a onClick={() => scrollToSection ('accomidation123')} className="menuelements">Accomidation</a></li> 
+       <li>  <a onClick={() => scrollToSection ('about')} className="menuelements">About</a></li>
+       <li>  <a onClick={() => scrollToSection ('contact')} className="menuelements">Contact us</a></li>
+       <li>  <a onClick={() => scrollToSection ('sponsors')} className="menuelements">More</a></li>
         </ul>
        
        
