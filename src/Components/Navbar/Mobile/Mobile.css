@@ -33,7 +33,7 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         flex-basis: 50%;
-        flex-basis: 49%;
+        
         padding: 0;
         margin: 0;
         border: none;
@@ -51,7 +51,7 @@
         
     }
 
-    .mobnav ul li button:hover{
+    .mobnav ul li button:active{
         background-color: yellowgreen;
     }
     
@@ -84,13 +84,23 @@
         width: 100%;
         z-index: 20000;
         
+        
     }
     .toplogo img{
-        height: 30px;
-        width: 30px;
-        margin-left: 5%;
-        margin-right: 5%;
+        height: 40px;
+        width: 40px;
+       
+        border-radius: 50%;
     }
+
+    .pratistha{
+        margin-right: 10px;
+    }
+
+    .pratistha1{
+        margin-left: 10px;
+    }
+ 
 
     .micons{
         margin-right: 5%;

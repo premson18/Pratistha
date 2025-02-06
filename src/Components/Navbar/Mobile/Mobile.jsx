@@ -19,10 +19,9 @@ const Mobile = () => {
   return (
     <div>
         <div className="toplogo">
-            <img src={logo} className='toplogo'/>
-            <div className="toplogo">
-                <img src={Pratistha} alt=""/>
-            </div>
+            <img src={logo} className='pratistha1'/>
+                <img src={Pratistha} alt="" className='pratistha'/>
+            
         </div>
       <div className="mobnav">
         <ul>

@@ -21,7 +21,7 @@
 
 .to{
     color: #5a18c4;
-    padding: -10;
+    
     margin: 0;
     z-index: 10;
     font-size: 2.5rem;
@@ -102,7 +102,7 @@ div{
     }
     .to{
         font-size: 2rem;
-        padding: -10px;
+        
     }
 
    

@@ -29,12 +29,13 @@
 .accinfo{
     border: 3px solid rgb(148, 104, 0);
     color: #F6FB7A;
-    padding: 0 3%;
+    
+    text-align: justify;
 }
 .accomh1{
     text-align: center;
     font-size: 2.5rem;
-    padding: 5px;
+    padding: 0 5px;
     text-align: center;
 }
 .accomidationh1{
@@ -61,5 +62,8 @@
 .accinfo p{
     text-align: center;
     font-size: 1.1rem;
-    font-weight: 550;
+    font-weight: 500;
+}
+.welcomeJntu{
+    text-align: center;
 }

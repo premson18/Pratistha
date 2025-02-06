@@ -15,6 +15,12 @@ body{
   background-position: center;
   background-attachment: fixed;
   background: linear-gradient(to left ,black, teal,black);
+
+}
+
+::-webkit-scrollbar{
+  width: 0;
+  display: none;
 }
 
 a{
