@@ -47,8 +47,10 @@
         gap: 0;
         flex-grow: 59%;
         flex-shrink: 100%;
-        background-color: teal;
-        
+        background-color: rgb(22, 91, 91);
+        color: gold;
+        font-weight: 550;
+        text-shadow: 0 1px 10px black;
     }
 
     .mobnav ul li button:active{
