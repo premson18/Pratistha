@@ -20,7 +20,7 @@
                 z-index: 200000;
                 background-color: rgba(170, 0, 255, 0);
                 width: 100%;
-                padding: 0;
+                padding-bottom: 20px;
                 margin: 0;
     }
     .mobnav ul{
