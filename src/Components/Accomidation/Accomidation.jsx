@@ -17,7 +17,7 @@ We’re thrilled to offer 2 DAYS ACCOMMODATION for participants of Pratistha-2K2
 
 Limited slots available! Contact us at Name : Vijay; Phone No 8977889067 to confirm your spot. Don’t miss out—see you soon! 🌟</p><br></br>
 <p>Price : Updating Soon...</p><hr></hr>
-            <div className="btn"><a href="http://www.googleforms.com" target="_blank" rel=""><button>Register</button></a></div>
+            <div className="btn"><a href="https://forms.gle/jNtwX331h33FY8qV9" target="_blank" ><button>Register</button></a></div>
           </div>
           <img></img></div>
       </div>

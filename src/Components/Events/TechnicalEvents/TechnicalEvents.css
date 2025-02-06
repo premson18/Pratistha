@@ -103,7 +103,7 @@
     /* background-image: linear-gradient(180deg,rgb(0, 149, 255),rgb(255, 162, 69));
      */height: 130%;
      background: rgb(192, 192, 192);
-    animation: rotBGimg 3s linear infinite;
+    animation: rotBGimg 4.5s linear infinite;
     transition: all 0.2s linear;
     box-sizing: border-box;
 }

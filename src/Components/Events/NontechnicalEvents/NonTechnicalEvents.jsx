@@ -21,7 +21,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='https://forms.gle/7rxSm9kxAngghtar8' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard2">
@@ -33,7 +33,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='https://forms.gle/fyD5FFrj7Mrh4F337' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard3">
@@ -45,7 +45,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard4">
@@ -59,7 +59,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='https://forms.gle/gd95DM2uPhhZEUjN6' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard5">
@@ -70,7 +70,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='https://forms.gle/voJWk1xfTXqu6QZi9' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
         <div className="ncard3 ntanimatcard ntanimatcard6">
@@ -82,7 +82,7 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration'>Register Here</a>
+<a className='registration' href='https://forms.gle/c4neH1Lkz2AVsbp19' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
         </div>
       </div>

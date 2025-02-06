@@ -53,7 +53,7 @@ const ParticlesComponent = (props) => {
       },
       particles: {
         color: {
-          value: "#ffffff",
+          value: "#000000",
           opacity:0.5,
         },
         links: {
@@ -70,23 +70,23 @@ const ParticlesComponent = (props) => {
             default: "bounce",
           },
           random: true,
-          speed: 1,
+          speed: 0.8,
           straight: false,
         },
         number: {
           density: {
             enable: true,
           },
-          value: 200,
+          value: 180,
         },
         opacity: {
-          value: 1,
+          value: 0.2,
         },
         shape: {
-          type: "circle",
+          type: "triangle",
         },
         size: {
-          value: { min: 2, max: 3 },
+          value: { min: 1, max: 3 },
         },
         postion:{
           value:{}
