@@ -14,7 +14,7 @@ body{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background: linear-gradient(to left ,black, teal,black);
+  background: linear-gradient(to left ,rgb(0, 29, 29), rgb(13, 83, 83),rgb(0, 29, 29));
 
 }
 
@@ -44,5 +44,6 @@ a{
   .container1{
     padding-left: 25%;
     padding-right: 25%;
+    scale: 1;
   }
 }
