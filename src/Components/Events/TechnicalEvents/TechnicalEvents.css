@@ -179,7 +179,7 @@
     filter: blur(0.3px);
 }
 .tanimatcard4::after{
-    background: url('../../../assets/eventimages/ppt.jpeg');
+    background: url('../../../assets/eventimages/whoi.jpeg');
     background-size: cover;
     background-position:right;
     background-clip: border-box;
@@ -188,7 +188,7 @@
     filter: blur(0.5px);
 }
 .tanimatcard5::after{
-    background: url('../../../assets/eventimages/surveying.jpeg');
+    background: url('../../../assets/eventimages/ppt1.jpeg');
     background-size: cover;
     background-position: center;
     background-clip: border-box;
@@ -197,7 +197,7 @@
     filter: blur(0.5px);
 }
 .tanimatcard6::after{
-    background: url('../../../assets/eventimages/projectexpo.jpeg');
+    background: url('../../../assets/eventimages/survey.jpeg');
     background-size: cover;
     background-position: center;
     background-clip: border-box;

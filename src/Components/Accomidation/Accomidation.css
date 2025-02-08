@@ -4,9 +4,9 @@
 }
 .scontainer{
     padding-top: 70px;
-    padding-bottom: 10px;
+    padding-bottom: 70px;
     width: 100%;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.43);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -49,7 +49,7 @@
 
 .btn button{
     padding: 8px 100px;
-    background: linear-gradient(45deg , red,rgb(247, 14, 255),rgb(17, 0, 255),rgb(0, 255, 102));
+    background-color: antiquewhite;
     border: none;
     box-shadow: 0 0 0 0 10px black ;
     border: none;
