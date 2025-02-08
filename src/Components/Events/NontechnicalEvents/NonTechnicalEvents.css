@@ -234,7 +234,7 @@
 
 
 
-@media screen and (min-width : 475px) and (max-width : 768px) {
+@media screen and (min-width : 320px) and (max-width : 768px) {
    
     .ntechevents-cards .ncard3{
         width: 120px;
