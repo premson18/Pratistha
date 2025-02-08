@@ -79,7 +79,7 @@ const TechnicalEvents = () => {
         <div className="card3 tanimatcard tanimatcard6">
         <div className="freefire">
             <div className='eventsinfo'>
-            <h4>Geometery<br></br>(Surveying)</h4>
+            <h4>Geometry<br></br>(Surveying)</h4>
             <p>Team(2) :- 199/-</p>
             <p>Single :-149/-</p>
             <br></br>
