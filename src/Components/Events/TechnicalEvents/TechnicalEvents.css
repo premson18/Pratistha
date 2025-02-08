@@ -236,7 +236,7 @@
 
 @media (min-width : 375px) and (max-width: 475px) {
     .teventsmain{
-        height: 100vh;
+        height: 90vh;
         box-sizing: border-box;
         
     }
