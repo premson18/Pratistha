@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import {Sugar} from 'react-preloaders';
 import Navbar from './Components/Navbar/Normal/Navbar'
 import Hero from './Components/Hero/Hero'
 import Workshop from './Components/Workshop/Workshop'
