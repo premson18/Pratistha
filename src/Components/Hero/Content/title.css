@@ -22,7 +22,7 @@ body{
     -webkit-animation: bounce 1s ease infinite alternate;
     font-size: 100px;
     color: #080808;
-    text-shadow: 0 1px 0 rgb(255, 255, 255), 0 2px 0 rgb(255, 255, 255), 0 3px 0 rgb(0, 63, 63), 0 4px 0 rgb(0, 255, 255), 0 4px 0 rgb(0, 215, 215) , 0 6px 0 rgb(0, 252, 252), 0 7px 0 rgb(0, 213, 213), 0 8px 0 rgb(0, 250, 229),0 9px 0 rgba(0, 255, 255, 0.741), 0 10px 10px rgb(0, 255, 255);
+    text-shadow: 0 1px 0 rgb(255, 255, 255), 0 2px 0 rgb(255, 8, 8), 0 3px 0 rgb(248, 4, 4), 0 4px 0 rgb(0, 255, 255), 0 4px 0 rgb(0, 215, 215) , 0 6px 0 rgb(0, 252, 252), 0 7px 0 rgb(0, 213, 213), 0 8px 0 rgb(0, 250, 229),0 9px 0 rgba(0, 255, 255, 0.741), 0 10px 20px rgb(0, 0, 0);
     font-family: title;
     letter-spacing: 3px;
    

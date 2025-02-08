@@ -1,3 +1,7 @@
+@font-face {
+    font-family: about;
+    src: url("../../assets/Happy.otf");
+}
 .aboutinfo{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -9,19 +13,22 @@
     align-items: center;
     flex-grow: 1;
     flex-wrap: wrap;
-    background-color: linea;
     color: #F2E5BF;
     text-align: justify;
 }
 .aboutinfo{
-    border: 2px solid black;
+    border: 2px solid rgb(219, 173, 173);
+    font-family: about;
+    
 }
 
 .aboutcol{
-    border: 1px solid black;
+    border: 1px solid rgb(255, 196, 0);
     width: 100%;
     flex-basis: 100;
     flex-shrink: 100;
+    padding: 1em;
+    
 }
 
 .prat{

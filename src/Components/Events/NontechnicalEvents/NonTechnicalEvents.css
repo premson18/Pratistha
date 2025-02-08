@@ -161,7 +161,7 @@
 .ntanimatcard6::after{
     background: url('../../../assets/eventimages/beyondthe.jpeg');
     background-size: cover;
-    background-position:-190px;
+    background-position:cover;
     background-clip: border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;

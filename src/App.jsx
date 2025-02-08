@@ -27,8 +27,8 @@ function App() {
       <TechnicalEvents/>
       <NonTechnicalEvents/>
       <Accomidation/>
-      <Contact/>
       <Sponsors/>
+      <Contact/>
       <Follow />
       
     </>
