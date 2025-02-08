@@ -260,7 +260,7 @@
 
 
 
-@media screen and (min-width : 320px) and (max-width : 768px) {
+@media screen and (min-width : 475px) and (max-width : 768px) {
    
     .techevents-cards .card3{
         width: 120px;
@@ -269,7 +269,7 @@
         
     }
     .teventsmain{
-        min-height: 40vh;
+        min-height: 80vh;
         box-sizing: border-box;
         
 
