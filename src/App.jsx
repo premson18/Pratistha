@@ -12,6 +12,7 @@ import NonTechnicalEvents from './Components/Events/NontechnicalEvents/NonTechni
 import About from './Components/About/About'
 import Mobile from './Components/Navbar/Mobile/Mobile'
 import Follow from './Components/Follow/Follow'
+import Preloader from './Components/Preloader/Preloader';
 
 
 function App() {
