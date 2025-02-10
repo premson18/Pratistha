@@ -33,24 +33,12 @@
     }
 }
 
-.item-1{
-    width: 200px;
-    height: 100px;
-    background-color: red;
-    border-radius: 6px;
-    position: absolute;
-    left: max(calc(200px * 8),100%);
-    animation-name: scrollleft;
-    animation-duration: 30s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    
-}
+
 
 .item-1{
     width: 200px;
     height: 100px;
-    background-color: brown;
+    background-color: gold;
     border-radius: 6px;
     position: absolute;
     left: max(calc(200px * 8),100%);
@@ -103,6 +91,7 @@
 
 .item1{
     animation-delay: calc(30s/ 8 * (8 - 1) * -1);
+    
 }
 .item2{
     animation-delay: calc(30s/ 8 * (8 - 2) * -1);
@@ -124,4 +113,11 @@
 }
 .item8{
     animation-delay: calc(30s/ 8 * (8 - 8) * -1);
+}
+
+.item12{
+    background-image: url('../../assets/Sponsors/mfc.png');
+    background-size: cover;
+    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
 }

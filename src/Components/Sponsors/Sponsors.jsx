@@ -1,6 +1,7 @@
 import React from 'react'
 import './Sponsors.css'
-import logo from '../../assets/instagram.webp'
+import MFC from '../../assets/Sponsors/mfc.png'
+
 
 const Sponsors = () => {
   return (
@@ -8,7 +9,9 @@ const Sponsors = () => {
       <section id='sponsors'>
         <h1 className='sponsorsh1'>Sponsors</h1>
       <div className="wrapper wrap1">
-            <div className="item-1 item1"></div>
+            <div className="item-1 item1 item12">
+              <img src={MFC}></img>
+            </div>
             <div className="item-1 item2"></div>
             <div className="item-1 item3"></div>
             <div className="item-1 item4"></div>
