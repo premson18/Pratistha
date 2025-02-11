@@ -1,5 +1,6 @@
 import React from 'react'
 import './Sponsors.css'
+import MFC from "../../assets/Sponsors/mfc.jpeg"
 
 
 

@@ -115,8 +115,10 @@
     animation-delay: calc(30s/ 8 * (8 - 8) * -1);
 }
 
-.item12{
-    background-image: url('../../assets/Sponsors/mfc.jpeg');
+.item12 {
+    
+    background-image: url('../../assets/Sponsors/mfc.png');
     background-size: cover;
-    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
+
 }
