@@ -38,7 +38,7 @@
 .item-1{
     width: 200px;
     height: 100px;
-    background-color: gold;
+    background-color: rgba(255, 217, 0, 0);
     border-radius: 6px;
     position: absolute;
     left: max(calc(200px * 8),100%);
@@ -115,6 +115,30 @@
     animation-delay: calc(30s/ 8 * (8 - 8) * -1);
 }
 
+.item12{
+    background-image: url('../../assets/Sponsors/mfc.png');
+    background-size: cover;
+    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
+}
+.item13{
+    background-image: url('../../assets/Sponsors/mfc.png');
+    background-size: cover;
+    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
+}
+.item12{
+    background-image: url('../../assets/Sponsors/mfc.png');
+    background-size: cover;
+    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
+}
+.item12{
+    background-image: url('../../assets/Sponsors/mfc.png');
+    background-size: cover;
+    background-color: rgba(127, 255, 212, 0);
+    background-position: center;
+}
 .item12{
     background-image: url('../../assets/Sponsors/mfc.png');
     background-size: cover;
