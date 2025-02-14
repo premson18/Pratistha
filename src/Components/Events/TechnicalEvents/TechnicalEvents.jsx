@@ -66,7 +66,7 @@ const TechnicalEvents = () => {
         <div className="card3 tanimatcard tanimatcard5">
         <div className="freefire">
             <div className='eventsinfo'>
-            <h4>Abhivyaktia<br></br>PPT Presentation</h4>
+            <h4>Abhivyakti<br></br>PPT Presentation</h4>
 
             <p>Price :-149/-</p>
             <br></br>

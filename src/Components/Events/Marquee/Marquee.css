@@ -1,0 +1,18 @@
+.marquee{
+    background-color: rgba(240, 248, 255, 0.105);
+    padding: 5px 0 ;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+} 
+.marquee h5{
+    animation: blink 0.5s linear infinite;
+    color: wheat;
+}   
+
+@keyframes blink {
+    0%, 100% {opacity: 1;}
+    50% {opacity: 0;}
+  }

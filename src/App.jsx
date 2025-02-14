@@ -13,6 +13,8 @@ import About from './Components/About/About'
 import Mobile from './Components/Navbar/Mobile/Mobile'
 import Follow from './Components/Follow/Follow'
 import Preloader from './Components/Preloader/Preloader';
+import Marquee from './Components/Events/Marquee/Marquee';
+
 
 
 function App() {
@@ -23,7 +25,10 @@ function App() {
       
       <Navbar/>
       <Mobile/>
+
+      <Marquee/>
       <Hero />
+      
       <About/>
       <Workshop/>
       <TechnicalEvents/>

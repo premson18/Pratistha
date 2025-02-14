@@ -21,8 +21,8 @@ body{
     display: inline-block;
     -webkit-animation: bounce 1s ease infinite alternate;
     font-size: 100px;
-    color: #080808;
-    text-shadow: 0 1px 0 rgb(255, 255, 255), 0 2px 0 rgb(255, 8, 8), 0 3px 0 rgb(248, 4, 4), 0 4px 0 rgb(0, 255, 255), 0 4px 0 rgb(0, 215, 215) , 0 6px 0 rgb(0, 252, 252), 0 7px 0 rgb(0, 213, 213), 0 8px 0 rgb(0, 250, 229),0 9px 0 rgba(0, 255, 255, 0.741), 0 10px 20px rgb(0, 0, 0);
+    color: #217e83;
+    text-shadow: 0 1px 0 rgb(0, 0, 0), 0 2px 0 rgb(0, 0, 0), 0 3px 0 rgb(184, 184, 184), 0 4px 0 rgb(184, 184, 184), 0 4px 0 rgb(184, 184, 184) , 0 6px 0 rgb(184, 184, 184), 0 7px 0 rgb(184, 184, 184), 0 8px 0 rgb(184, 184, 184),0 9px 0 rgba(251, 109, 0, 0.741), 0 10px 20px rgb(0, 0, 0);
     font-family: title;
     letter-spacing: 3px;
    
@@ -71,7 +71,7 @@ body{
 @-webkit-keyframes bounce{
     100%{
         top: -2px;
-        text-shadow: 0 1px 0 rgb(0, 170, 255) , 0 2px 0 rgb(0, 158, 175), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
+        text-shadow: 0 1px 0 rgb(0, 170, 184) , 0 2px 0 rgb(0, 158, 175), 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
     }
 }
 
@@ -84,7 +84,7 @@ body{
     @-webkit-keyframes bounce{
         100%{
             top: -3px;
-            text-shadow: 0 1px 0 rgb(255, 14, 14) , 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
+            text-shadow: 0 1px 0 rgb(184, 14, 14) , 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc, 0 4px 0 #ccc , 0 6px 0 rgb(200, 0, 0), 0 7px 0 t#ccc, 0 8px 0 #ccc,0 9px 0 rgb(194, 7, 7), 0 20px 20px rgba(0,0,0,0.4);;
         }
     }
 }
