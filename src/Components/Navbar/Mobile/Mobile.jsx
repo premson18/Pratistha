@@ -26,7 +26,7 @@ const Mobile = () => {
       <div className="mobnav">
         <ul>
             <li><button onClick={() => scrollToSection ('home')} className="homemenu"><img src={Home} className="menuicons"></img><br></br>Home</button></li>
-            <li><button onClick={() => scrollToSection ('workshop1')}><img src={Workshop} className="menuicons"></img><br></br>Workshop</button></li>
+            <li><button onClick={() => scrollToSection ('workshop123')}><img src={Workshop} className="menuicons"></img><br></br>Workshop</button></li>
             <li><button onClick={() => scrollToSection ('accomidation123')} className='macc'><img src={Accommdation} className="menuicons"></img><br></br>Accomidation</button></li>
             <li><button onClick={() => scrollToSection ('events123')}><img src={Events} className="menuicons"></img><br></br>Events</button></li>
             <li><button onClick={() => scrollToSection ('about')}><img src={About} className="menuicons"></img><br></br>About</button></li>

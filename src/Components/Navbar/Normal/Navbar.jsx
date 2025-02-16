@@ -18,7 +18,7 @@ const Navbar = () => {
        <img src={JNTUGV} alt=""  className='jntugvlogo'/>
       <ul className="menu">
         <li><a onClick={() => scrollToSection ('home')} className="menuelements">Home</a></li>
-       <li><a onClick={() => scrollToSection ('workshop1')} className="menuelements">Workshop</a></li>
+       <li><a onClick={() => scrollToSection ('workshop123')} className="menuelements">Workshop</a></li>
        <li><a onClick={() => scrollToSection ('events123')} className="menuelements">Events</a></li> 
        <li><a onClick={() => scrollToSection ('accomidation123')} className="menuelements">Accomidation</a></li> 
        <li>  <a onClick={() => scrollToSection ('about')} className="menuelements">About</a></li>

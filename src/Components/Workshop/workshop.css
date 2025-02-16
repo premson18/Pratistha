@@ -10,3 +10,13 @@
 
 
 }
+.workshopimg{
+    height: 240px;
+    width: 100%;
+}
+
+.classtext{
+    position:fixed;
+    top: 10;
+    left: 0;
+}
