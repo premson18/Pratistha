@@ -17,8 +17,8 @@ const TechnicalEvents = () => {
           <div className="freefire">
             <div className='eventsinfo'>
             <h4>Clash of Cadd<br></br>(AutoCad)</h4>
-            <p>Team(3) :- 249/-</p>
-            <p>Single: 199/-</p><br></br>
+            <p>Team(3) :- 199/-</p>
+            <p>Single: 99/-</p><br></br>
             <a className='registration' href='https://forms.gle/cNncojnJzFhj7374A' target="_blank" rel="noopener noreferrer">Register Here</a>
             
 </div>
@@ -28,8 +28,8 @@ const TechnicalEvents = () => {
         <div className="freefire">
             <div className='eventsinfo'>
             <h4>Brain Buzzer<br></br>(Quiz)</h4>
-            <p>Team (3) :- 199/-</p>
-            <p>Single :-149/-</p>
+            <p>Team (3) :- 149/-</p>
+            <p>Single :-79/-</p>
             <br></br>
             <a className='registration' href='https://forms.gle/Rqg34KVrNcUAuQGU7' target="_blank" rel="noopener noreferrer">Register Here</a>
         
@@ -42,8 +42,8 @@ const TechnicalEvents = () => {
         <div className="freefire">
             <div className='eventsinfo'>
             <h4>Sixtopia<br></br>(Stability Check)</h4>
-            <p>Team(2) :- 149/-</p>
-            <p>Single :- 99</p>
+            <p>Team(2) :- 99/-</p>
+            <p>Single :- 49/-</p>
             <br></br>
             <a className='registration' href='https://forms.gle/cdQo4j9CHjcjFq1MA' target="_blank" rel="noopener noreferrer">Register Here</a>
         
@@ -68,7 +68,7 @@ const TechnicalEvents = () => {
             <div className='eventsinfo'>
             <h4>Abhivyakti<br></br>PPT Presentation</h4>
 
-            <p>Price :-149/-</p>
+            <p>Price :-99/-</p>
             <br></br>
             <a className='registration' href='https://forms.gle/AyshGxTDXQXFKF1FA' target="_blank" rel="noopener noreferrer">Register Here</a>
         
@@ -80,8 +80,8 @@ const TechnicalEvents = () => {
         <div className="freefire">
             <div className='eventsinfo'>
             <h4>Geometry<br></br>(Surveying)</h4>
-            <p>Team(2) :- 199/-</p>
-            <p>Single :-149/-</p>
+            <p>Team(2) :- 149/-</p>
+            <p>Single :-99/-</p>
             <br></br>
             
         

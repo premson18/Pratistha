@@ -60,7 +60,7 @@ const ParticlesComponent = (props) => {
           color: "#ffffff",
           distance: 150,
           enable: true,
-          opacity: 0.8,
+          opacity: 0.4,
           width:1,
         },
         move: {
@@ -77,10 +77,10 @@ const ParticlesComponent = (props) => {
           density: {
             enable: true,
           },
-          value: 290,
+          value: 200,
         },
         opacity: {
-          value: 0.1,
+          value: 0.3,
         },
         shape: {
           type: "triangle",

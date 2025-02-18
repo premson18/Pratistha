@@ -77,7 +77,7 @@ const NonTechnicalEvents = () => {
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Beyond The Page</h4>
-            <p>Single :- 40</p>
+            <p>Single :- 49/-</p>
             <p>Team (3 Members): 100/- </p>
         
 

@@ -2,6 +2,12 @@ import React from 'react'
 import Instagram from "../../assets/InstagramFollow.webp"
 import '../Follow/Follow.css'
 
+const scrollToSection = (sectionId) => {
+  const element =  document.getElementById(sectionId);
+  if(element){
+    element.scrollIntoView({ behavior: 'smooth'});
+  }
+}
 
 const Follow = () => {
   return (
@@ -17,7 +23,15 @@ const Follow = () => {
                 <h3>Quick Links</h3>
 
                 <ul>
-                  <li></li>
+                <ul className='quicklinks'>
+        <li><a onClick={() => scrollToSection ('home')} className="menuelements">Home</a></li>
+       <li><a onClick={() => scrollToSection ('workshop123')} className="menuelements">Workshop</a></li>
+       <li><a onClick={() => scrollToSection ('events123')} className="menuelements">Events</a></li> 
+       <li><a onClick={() => scrollToSection ('accomidation123')} className="menuelements">Accomidation</a></li> 
+       <li>  <a onClick={() => scrollToSection ('about')} className="menuelements">About</a></li>
+       <li>  <a onClick={() => scrollToSection ('contact')} className="menuelements">Contact us</a></li>
+       <li>  <a onClick={() => scrollToSection ('sponsors')} className="menuelements">More</a></li>
+        </ul>
                 </ul>
 
                 <div className="address">

@@ -75,7 +75,7 @@
 }
 
 .freefire{
-    background-color: rgba(0, 0, 0, 0.564);
+    background-color: rgba(0, 0, 0, 0.665);
     width: 94%;
     height: 95%;
     display: flex;
@@ -190,7 +190,7 @@
     filter: blur(0.5px);
 }
 .tanimatcard5::after{
-    background: url('../../../assets/eventimages/ppt1.jpeg');
+    background: url('../../../assets/eventimages/ppt.jpeg');
     background-size: cover;
     background-position: center;
     background-clip: border-box;
