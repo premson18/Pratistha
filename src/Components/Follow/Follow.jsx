@@ -24,13 +24,13 @@ const Follow = () => {
 
                 <ul>
                 <ul className='quicklinks'>
-        <li><a onClick={() => scrollToSection ('home')} className="menuelements">Home</a></li>
-       <li><a onClick={() => scrollToSection ('workshop123')} className="menuelements">Workshop</a></li>
-       <li><a onClick={() => scrollToSection ('events123')} className="menuelements">Events</a></li> 
-       <li><a onClick={() => scrollToSection ('accomidation123')} className="menuelements">Accomidation</a></li> 
-       <li>  <a onClick={() => scrollToSection ('about')} className="menuelements">About</a></li>
-       <li>  <a onClick={() => scrollToSection ('contact')} className="menuelements">Contact us</a></li>
-       <li>  <a onClick={() => scrollToSection ('sponsors')} className="menuelements">More</a></li>
+        <li><a onClick={() => scrollToSection ('home')} className="menuelements1">Home</a></li>
+       <li><a onClick={() => scrollToSection ('workshop123')} className="menuelements1">Workshop</a></li>
+       <li><a onClick={() => scrollToSection ('events123')} className="menuelements1">Events</a></li> 
+       <li><a onClick={() => scrollToSection ('accomidation123')} className="menuelements1">Accomidation</a></li> 
+       <li>  <a onClick={() => scrollToSection ('about')} className="menuelements1">About</a></li>
+       <li>  <a onClick={() => scrollToSection ('contact')} className="menuelements1">Contact us</a></li>
+       <li>  <a onClick={() => scrollToSection ('sponsors')} className="menuelements1">More</a></li>
         </ul>
                 </ul>
 
