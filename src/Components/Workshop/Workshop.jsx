@@ -23,7 +23,7 @@ const Workshop = () => {
           <div >
             <a href='https://forms.gle/DTAF5ycCJ9GNuxks5' target="_blank" rel="noopener noreferrer"><button className='price1'>Price :- 600/-</button></a><br></br>
             <a className='price' href='https://forms.gle/DTAF5ycCJ9GNuxks5' target="_blank" rel="noopener noreferrer">
-<button>Register Here</button></a>
+<button className='button-1 register'>Register Here</button></a>
             
           </div>
         </div>
@@ -34,9 +34,9 @@ const Workshop = () => {
           Unlock the power of 3D design with SketchUp, the industry-leading modeling software. Whether you're an architect,<br></br> designer, or just curious about 3D modeling, this hands-on workshop will teach you the fundamentals of creating stunning visuals <br></br>and detailed structures. Learn from experts, enhance your creativity, and bring your ideas to life!
           </p>
           <div>
-          <a href='https://forms.gle/TpXsBgmYRnLVUbD69' target="_blank" rel="noopener noreferrer"><button className='price1'>Price :- 400/-</button></a><br></br>
+          <a href='https://forms.gle/TpXsBgmYRnLVUbD69' target="_blank" rel="noopener noreferrer"><button className='price1 '>Price :- 400/-</button></a><br></br>
           <a className='price' href='https://forms.gle/TpXsBgmYRnLVUbD69' target="_blank" rel="noopener noreferrer">
-<button className='register'>Register Here</button></a>
+<button className='register button-1'>Register Here</button></a>
         
           </div>
         </div>
