@@ -61,7 +61,7 @@ nav ul li{
 
 @media (min-width : 419px ) and (max-width : 770px){
     a{
-        font: 12px;
+        font: 19px;
     } 
     nav{
         display: none;
