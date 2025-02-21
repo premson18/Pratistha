@@ -68,6 +68,7 @@
     .mobnav ul li button:active{
         background-color: yellowgreen;
         transform: translateY(-10px);
+        animation: 20s;
     }
     
     

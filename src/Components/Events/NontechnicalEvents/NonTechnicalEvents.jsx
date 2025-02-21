@@ -12,7 +12,7 @@ const NonTechnicalEvents = () => {
       
       <div className="ntechevents-cards container1">
 
-        <div className="ncard3 ntanimatcard ntanimatcard1">
+        <a href='https://forms.gle/7rxSm9kxAngghtar8' target="_blank" rel="noopener noreferrer"><div className="ncard3 ntanimatcard ntanimatcard1">
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Freefire<br></br>& PUBG</h4>
@@ -23,8 +23,8 @@ const NonTechnicalEvents = () => {
 </div>
 <a className='registration' href='https://forms.gle/7rxSm9kxAngghtar8' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
-        <div className="ncard3 ntanimatcard ntanimatcard2">
+        </div></a>
+        <a href='https://forms.gle/fyD5FFrj7Mrh4F337' target="_blank" rel="noopener noreferrer"><div className="ncard3 ntanimatcard ntanimatcard2">
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Photo Contest & <br></br>Reel Contest</h4>
@@ -35,8 +35,8 @@ const NonTechnicalEvents = () => {
 </div>
 <a className='registration' href='https://forms.gle/fyD5FFrj7Mrh4F337' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
-        <div className="ncard3 ntanimatcard ntanimatcard3">
+        </div></a>
+        <a href='https://forms.gle/hji3K5T9bzWVs6yo6' target="_blank" rel="noopener noreferrer"><div className="ncard3 ntanimatcard ntanimatcard3">
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Treasure Hunt</h4>
@@ -45,10 +45,10 @@ const NonTechnicalEvents = () => {
         
 
 </div>
-<a className='registration' href='' target="_blank" rel="noopener noreferrer">Register Here</a>
+<a className='registration' href='https://forms.gle/hji3K5T9bzWVs6yo6' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
-        <div className="ncard3 ntanimatcard ntanimatcard4">
+        </div></a>
+        <a  href='https://forms.gle/gd95DM2uPhhZEUjN6' target="_blank" rel="noopener noreferrer"><div className="ncard3 ntanimatcard ntanimatcard4">
         <div className="nontech">
             <div className='eventsinfo'>
               <h4>Jenga</h4>
@@ -61,8 +61,8 @@ const NonTechnicalEvents = () => {
 </div>
 <a className='registration' href='https://forms.gle/gd95DM2uPhhZEUjN6' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
-        <div className="ncard3 ntanimatcard ntanimatcard5">
+        </div></a>
+        <a href='https://forms.gle/voJWk1xfTXqu6QZi9' target="_blank" rel="noopener noreferrer"><div className="ncard3 ntanimatcard ntanimatcard5">
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Rubiks Cube</h4>
@@ -72,8 +72,8 @@ const NonTechnicalEvents = () => {
 </div>
 <a className='registration' href='https://forms.gle/voJWk1xfTXqu6QZi9' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
-        <div className="ncard3 ntanimatcard ntanimatcard6">
+        </div></a>
+        <a href='https://forms.gle/c4neH1Lkz2AVsbp19' target="_blank" rel="noopener noreferrer"> <div className="ncard3 ntanimatcard ntanimatcard6">
         <div className="nontech">
             <div className='eventsinfo'>
             <h4>Beyond The Page</h4>
@@ -84,7 +84,7 @@ const NonTechnicalEvents = () => {
 </div>
 <a className='registration' href='https://forms.gle/c4neH1Lkz2AVsbp19' target="_blank" rel="noopener noreferrer">Register Here</a>
             </div>
-        </div>
+        </div></a>
       </div>
 
       </div>

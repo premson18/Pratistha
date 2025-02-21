@@ -96,6 +96,7 @@
     bottom: 0;
     left: 0;
     color: antiquewhite;
+    z-index: 3;
 }
 
 .tanimatcard::before{
