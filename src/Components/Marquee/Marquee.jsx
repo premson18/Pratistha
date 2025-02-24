@@ -5,7 +5,7 @@ const Marquee = () => {
   return (
     <div className=''>
       <div className="marquee" speed="120">
-        <marquee><h5>Welcome All! Registration Are on Live</h5></marquee>
+        <marquee><h5>Welcome All! Registrations Are on Live</h5></marquee>
       </div>
     </div>
   )

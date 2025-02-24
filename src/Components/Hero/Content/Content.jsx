@@ -14,6 +14,9 @@ const Content = () => {
         <p className='dept bold1'>
           Jawaharlal Nehru Technological University - Gurajada Vizianagaram
         </p>
+        <p className='dept bold1'>
+          JNTU-GV College of Engineering Vizianagaram(A)
+        </p>
         <p className='dept bold1'>Department of Civil Engineering</p>
         <h5>
         <Typewriter/>
