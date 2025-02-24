@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div>
     <nav className='container1'>
-       <img src={JNTUGV} alt=""  className='jntugvlogo'/>
+       <a><img src={JNTUGV} alt=""  className='jntugvlogo'/></a>
       <ul className="menu">
         <li><a onClick={() => scrollToSection ('home')} className="menuelements">Home</a></li>
        <li><a onClick={() => scrollToSection ('workshop123')} className="menuelements">Workshop</a></li>

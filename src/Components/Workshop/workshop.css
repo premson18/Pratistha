@@ -92,7 +92,8 @@
     color: goldenrod;
 }
 .iim{
-    background-color: rgb(146, 36, 36);
+    background-color: rgb(166, 108, 0);
     padding: 10px;
     color:rgb(233, 233, 233);
+    border-radius: 10px;
 }

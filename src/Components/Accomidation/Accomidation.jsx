@@ -16,7 +16,7 @@ We’re thrilled to offer 2 DAYS ACCOMMODATION for participants of Pratistha-2K2
 📍 <br></br>Location: Jntugv college,Dwarapudi,Vizianagaram,Andhra Pradesh 535003
 
 Limited slots available! Contact us at Name : Vijay; Phone No 8977889067 to confirm your spot. Don’t miss out—see you soon! 🌟</p>
-<p>Price : Updating Soon...</p><hr></hr><br></br>
+<hr></hr>
  <p>Two Days Accommodation + Food  = <span>500/-</span>
  <p>One Day Accommodation + Food = 250/-</p>
  <p>Three Days Accommodation + If Workhop Registered + Food = 350/-</p>

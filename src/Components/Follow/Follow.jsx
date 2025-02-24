@@ -38,7 +38,8 @@ const Follow = () => {
                 <a className='Address' href='https://maps.app.goo.gl/o6CbFmCLXeABHdNj7' target="_blank" rel="noopener noreferrer">Address</a>
         
                 </div>
-                <h5>copyrights@Premson</h5>
+                <br></br>
+                <h5>copyrights@Pratistha2K25</h5>
 
                  </div>
         </div>

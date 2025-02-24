@@ -83,7 +83,7 @@ const ParticlesComponent = (props) => {
           value: 0.3,
         },
         shape: {
-          type: "triangle",
+          type: "circle",
         },
         size: {
           value: { min: 1, max: 3 },

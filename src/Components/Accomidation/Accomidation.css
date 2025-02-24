@@ -5,13 +5,14 @@
 .scontainer{
     padding-top: 70px;
     padding-bottom: 70px;
-    width: 100%;
+    width: 90%;
     background-color: rgba(0, 0, 0, 0.43);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: nowrap;
     flex-grow: 1;
+    margin: 0 5%;
     
 }
 .scard{
@@ -54,6 +55,7 @@
     box-shadow: 0 0 0 0 10px black ;
     border: none;
     border-radius: 50px;
+    margin: 10px 0;
 }
 .btn button:hover {
     background: rgb(255, 255, 101);
