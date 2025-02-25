@@ -36,6 +36,7 @@ const Workshop = () => {
           
           </p>
           <p className='iim'>✨Certificate will Be Provided✨</p>
+          <p className='iim1'>Additional Information :- <br></br>Participants must bring Laptops if Availabe<br></br>Minimum Requirments - 4gb ram,i3 processor</p>
           
           <div>
           <a href='https://forms.gle/TpXsBgmYRnLVUbD69' target="_blank" rel="noopener noreferrer"><button className='price1 '>Price :- 400/-</button></a><br></br>

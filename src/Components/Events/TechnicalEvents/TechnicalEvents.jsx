@@ -28,7 +28,7 @@ const TechnicalEvents = () => {
         <div className="freefire">
             <div className='eventsinfo'>
             <h4 className='event123'>Brain Buzzer<br></br>(Quiz)</h4>
-            <p>Team (3) :- 149/-</p>
+            <p>Team (2) :- 149/-</p>
             <p>Single :-79/-</p>
             <br></br>
             <a className='registration' href='https://forms.gle/Rqg34KVrNcUAuQGU7' target="_blank" rel="noopener noreferrer">Register Here</a>
