@@ -42,8 +42,8 @@ const TechnicalEvents = () => {
         <div className="freefire">
             <div className='eventsinfo'>
             <h4 className='event123'>Sixtopia<br></br>(Stability Check)</h4>
-            <p>Team(2) :- 99/-</p>
-            <p>Single :- 49/-</p>
+            <p>Team(2) :- 149/-</p>
+            <p>Single :- 79/-</p>
             <br></br>
             <a className='registration' href='https://forms.gle/cdQo4j9CHjcjFq1MA' target="_blank" rel="noopener noreferrer">Register Here</a>
         
